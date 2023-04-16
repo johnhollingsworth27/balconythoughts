@@ -1,18 +1,23 @@
 import React from 'react';
 import './App.css';
-import Head from './components/head/head';
-import '../public/assets/theme/css/style.css';
-import '../public/assets/mobirise/css/mbr-additional.css';
+import Header from './components/header';
+import Navbar from './components/navbar';
+import Banner from './components/banner';
+import JournalEntry from './JournalEntry';
+//import Head from './components/head/head';
 
 function App() {
   return (
     <div className="App">
-      <Head />
-      <div className="container">
-        {}
-      </div>
+      <Navbar />
+      <Header />
+      <JournalEntry />
+      <Navbar />
+      
+      <div id="content"></div>
     </div>
   );
 }
 
 export default App;
+

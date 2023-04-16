@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 import Head from './components/head/head';
-import './assets/theme/css/style.css';
-import './assets/mobirise/css/mbr-additional.css';
+import '../public/assets/theme/css/style.css';
+import '../public/assets/mobirise/css/mbr-additional.css';
 
 function App() {
   return (

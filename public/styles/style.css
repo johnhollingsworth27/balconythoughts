@@ -15,6 +15,22 @@ button {
   background-color: transparent;
   border-color: transparent;
 }
+/* Remove whitespace around header and footer */
+header,
+footer {
+  margin: 0;
+  padding: 0;
+}
+
+/* Additional rules for the navbar */
+header .navbar {
+  margin-bottom: 0;
+}
+
+/* Additional rules for the footer */
+footer .container {
+  padding: 0;
+}
 
 section,
 .container,
@@ -43,6 +59,7 @@ a {
 a, a:hover {
   text-decoration: none;
 }
+
 
 .mbr-section-title {
   font-style: normal;

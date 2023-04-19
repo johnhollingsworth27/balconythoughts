@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function Navbar() {
   return (
     <section data-bs-version="5.1" className="menu cid-s48OLK6784" id="menu1-h">
@@ -72,6 +73,7 @@ function Navbar() {
                 <div className="dropdown-menu">
                   <a className="dropdown-item" href="/philosophy.html">Philosophy</a>
                   <a className="dropdown-item" href="/houseplants.html">Houseplants</a>
+                  <a className="dropdown-item" href="https://www.chess.com">Chess</a>
                 </div>
               </li>
               <li className="nav-item dropdown">
@@ -86,7 +88,7 @@ function Navbar() {
                   Tech
                 </a>
                 <div className="dropdown-menu">
-                  <a className="dropdown-item" href="/https://chat.openai.com/">GPT</a>
+                  <a className="dropdown-item" href="https://chat.openai.com/">GPT</a>
                 </div>
               </li>
             </ul>

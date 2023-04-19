@@ -5967,10 +5967,11 @@ a {
   color: #d4d0d0;
 }
 .cid-tA2nw3aGLd {
-  padding-top: 10rem;
-  padding-bottom: 8rem;
-  background-image: url("../../../assets/images/horiz.webp");
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-image: url(../../../assets/images/horiz.webp);
 }
+
 .cid-tA2nw3aGLd .mbr-section-title {
   text-align: center;
   color: #203530;
@@ -6004,9 +6005,14 @@ a {
 .cid-tA2rnsadC2 .mbr-text {
   color: #d4d0d0;
 }
+.cid-s48MCQYojq * {
+  margin: 0;
+  padding: 0;
+}
+
 .cid-s48MCQYojq {
-  padding-top: 10rem;
-  padding-bottom: 9rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/img-4817-1934x1080.jpeg");
 }
 .cid-s48MCQYojq .mbr-section-title {
@@ -6029,7 +6035,7 @@ a {
   z-index: 1000;
   width: 100%;
   position: relative;
-  min-height: 60px;
+  min-height: 0px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;

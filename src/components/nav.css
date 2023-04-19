@@ -1,0 +1,8 @@
+.navbar {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-fixed-top {
+    position: static; /* Change from fixed to static */
+  }

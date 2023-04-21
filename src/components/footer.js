@@ -39,8 +39,8 @@ const Footer = () => {
         </div>
       </section>
 
-      <section className="display-7" style={{ padding: 0, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap', alignContent: 'center', display: 'flex', position: 'relative', height: '4rem' }}>
-        <a href="https://mobiri.se/2918176" style={{ flex: 1, height: '4rem', position: 'absolute', width: '100%', zIndex: 1 }}><img alt="" style={{ height: '4rem' }} src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
+      <section className="display-7" style={{ padding: 0, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap', alignContent: 'center', display: 'flex', position: 'relative', height: '0rem' }}>
+        <a href="https://mobiri.se/2918176" style={{ flex: 1, /*height: '4rem',*/ position: 'absolute', width: '100%', zIndex: 1 }}><img alt="" style={{ height: '0rem' }} src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" /></a>
         
       </section>
 

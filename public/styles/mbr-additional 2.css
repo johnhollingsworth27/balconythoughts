@@ -683,8 +683,8 @@ a {
   transition: color 0.6s;
 }
 .cid-tA3vLJl8ej {
-  padding-top: 10rem;
-  padding-bottom: 8rem;
+  padding-top: 00rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/horiz.webp");
 }
 .cid-tA3vLJl8ej .mbr-section-title {
@@ -1155,8 +1155,8 @@ a {
   color: #d4d0d0;
 }
 .cid-tA2CzNWcxQ {
-  padding-top: 6rem;
-  padding-bottom: 3rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/horiz.webp");
 }
 .cid-tA2CzNWcxQ .mbr-section-title {
@@ -3889,8 +3889,8 @@ a {
   color: #d4d0d0;
 }
 .cid-tA3vSU3xKg {
-  padding-top: 10rem;
-  padding-bottom: 8rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/horiz.webp");
 }
 .cid-tA3vSU3xKg .mbr-section-title {
@@ -4406,8 +4406,8 @@ a {
   color: #d4d0d0;
 }
 .cid-tAqWlu7kue {
-  padding-top: 10rem;
-  padding-bottom: 8rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/horiz.webp");
 }
 .cid-tAqWlu7kue .mbr-section-title {
@@ -4868,8 +4868,8 @@ a {
   color: #d4d0d0;
 }
 .cid-tAqwxP4oCQ {
-  padding-top: 10rem;
-  padding-bottom: 8rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/horiz.webp");
 }
 .cid-tAqwxP4oCQ .mbr-section-title {
@@ -5461,8 +5461,8 @@ a {
   color: #d4d0d0;
 }
 .cid-tAqNULMnq5 {
-  padding-top: 10rem;
-  padding-bottom: 8rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/horiz.webp");
 }
 .cid-tAqNULMnq5 .mbr-section-title {
@@ -5966,17 +5966,12 @@ a {
 .cid-tAqNUP9h51 .media-container-row .mbr-text {
   color: #d4d0d0;
 }
-
-
-
-
-
-/*THIS IS THE PICTURE ON THE HEADER*/
 .cid-tA2nw3aGLd {
-  padding-top: 11rem;
-  padding-bottom: 10rem;
-  background-image: url("../../../assets/images/horiz.webp");
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-image: url(../../../assets/images/horiz.webp);
 }
+
 .cid-tA2nw3aGLd .mbr-section-title {
   text-align: center;
   color: #203530;
@@ -6010,9 +6005,10 @@ a {
 .cid-tA2rnsadC2 .mbr-text {
   color: #d4d0d0;
 }
+
 .cid-s48MCQYojq {
-  padding-top: 10rem;
-  padding-bottom: 9rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/img-4817-1934x1080.jpeg");
 }
 .cid-s48MCQYojq .mbr-section-title {
@@ -6035,7 +6031,6 @@ a {
   z-index: 1000;
   width: 100%;
   position: relative;
-  /*THIS IS THE GAP AROUND THE HEADER*/
   min-height: 0px;
 }
 .cid-s48OLK6784 nav.navbar {

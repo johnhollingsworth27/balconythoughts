@@ -1,9 +1,9 @@
 import React from 'react';
 import '../styles/style.css';
 import '../styles/bootstrap-grid.min.css';
-import '../styles/bootstrap-reboot.min.css';
+//import '../styles/bootstrap-reboot.min.css';
 //import '../styles/bootstrap.min.css';
-import '../styles/gdpr-styles.css';
+//import '../styles/gdpr-styles.css';
 //import '../styles/mbr-additional.css';
 //import '../styles/mobirise-icons.css';
 //import '../styles/mobirise2.css';

@@ -5966,15 +5966,9 @@ a {
 .cid-tAqNUP9h51 .media-container-row .mbr-text {
   color: #d4d0d0;
 }
-
-
-
-
-
-/*THIS IS THE PICTURE ON THE HEADER*/
 .cid-tA2nw3aGLd {
-  padding-top: 11rem;
-  padding-bottom: 10rem;
+  padding-top: 10rem;
+  padding-bottom: 8rem;
   background-image: url("../../../assets/images/horiz.webp");
 }
 .cid-tA2nw3aGLd .mbr-section-title {
@@ -6035,8 +6029,7 @@ a {
   z-index: 1000;
   width: 100%;
   position: relative;
-  /*THIS IS THE GAP AROUND THE HEADER*/
-  min-height: 0px;
+  min-height: 60px;
 }
 .cid-s48OLK6784 nav.navbar {
   position: fixed;

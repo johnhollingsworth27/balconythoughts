@@ -1,13 +1,15 @@
 @charset "UTF-8";
 section {
+  /*! THIS IS WHAT I WANTI FIX */
   background-color: #ffffff;
+
 }
 
 body {
   font-style: normal;
   line-height: 1.5;
   font-weight: 400;
-  color: #232323;
+  color: #ffffff;
   position: relative;
 }
 
@@ -72,6 +74,7 @@ h6,
 span,
 p,
 a {
+  /*HEIGHT OF spacing of text (like double spaced*/
   line-height: 1;
   word-break: break-word;
   word-wrap: break-word;
@@ -97,6 +100,7 @@ section {
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
+  
 }
 section .mbr-background-video,
 section .mbr-background-video-preview {

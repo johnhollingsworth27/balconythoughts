@@ -5994,7 +5994,7 @@ a {
   }
 }
 .cid-tA2rnsadC2 {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 0rem;
   background-color: #581922;
 }
@@ -6010,9 +6010,12 @@ a {
 .cid-tA2rnsadC2 .mbr-text {
   color: #d4d0d0;
 }
+
+
+/* This is piano picture on homepage*/
 .cid-s48MCQYojq {
-  padding-top: 10rem;
-  padding-bottom: 9rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   background-image: url("../../../assets/images/img-4817-1934x1080.jpeg");
 }
 .cid-s48MCQYojq .mbr-section-title {

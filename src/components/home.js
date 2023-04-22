@@ -1,7 +1,8 @@
 import React from 'react';
 import '../styles/style.css';
 import '../styles/bootstrap-grid.min.css';
-//import '../styles/bootstrap-reboot.min.css';
+import '../styles/bootstrap-reboot.min.css';
+
 //import '../styles/bootstrap.min.css';
 //import '../styles/gdpr-styles.css';
 //import '../styles/mbr-additional.css';
@@ -49,7 +50,7 @@ const Home = () => {
         {/* Rest of the code */}
       </section>
       
-      <section className="display-7" style={{ padding: 0, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap', alignContent: 'center', display: 'flex', position: 'relative', height: '4rem' }}>
+      <section className="display-7" style={{ padding: 0, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap', alignContent: 'center', display: 'flex', position: 'relative', height: '0rem' }}>
         {/* Rest of the code */}
       </section>
     </div>

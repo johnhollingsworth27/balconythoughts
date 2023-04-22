@@ -1,4 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
+
+
+
 
 
 function Navbar() {
@@ -51,7 +55,7 @@ function Navbar() {
                   Personal
                 </a>
                 <div className="dropdown-menu">
-                  <a className="dropdown-item" href="/academics.html">Academics</a>
+                  <a className="dropdown-item" href="<academicsPage />">Academics</a>
                   <a className="dropdown-item" href="/career.html">Career</a>
                   <a className="dropdown-item" href="/exercise.html">Exercise</a>
                   <a className="dropdown-item" href="/finance.html">Finance</a>

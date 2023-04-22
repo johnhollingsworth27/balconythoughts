@@ -850,7 +850,7 @@ form .btn {
 }
 
 .mbr-overlay {
-  background-color: #000;
+  background-color: rgb(56, 19, 19);
   bottom: 0;
   left: 0;
   opacity: 0.5;

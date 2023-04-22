@@ -3,11 +3,14 @@ html, body {
   font-family: Arial, sans-serif;
   height: 100%;
   margin: 0;
+  
+  
 }
 
 
 .journal-entry {
   display: flex;
+  
   color: #d4d0d0;
   flex-direction: column;
   align-items: center;
@@ -21,6 +24,7 @@ html, body {
   flex-direction: column;
   align-items: center;
   width: 100%;
+  
 }
 
 .journal-entry-input {
@@ -39,6 +43,7 @@ html, body {
 .journal-entry-input::placeholder {
   color: #d4d0d0; /* Change this to your preferred color */
   opacity: 1; /* Change this to set the opacity of the placeholder text */
+  
 }
 
 
@@ -71,6 +76,7 @@ html, body {
   white-space: pre-wrap;
   word-wrap: break-word;
   text-align: left;
+  
 }
 
 .journal-entry-timestamp {
@@ -83,4 +89,4 @@ html, body {
   margin: 0 auto;
   max-width: calc(100% - 2in);
   padding: 1in;
-}
+ }

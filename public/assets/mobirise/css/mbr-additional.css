@@ -6154,6 +6154,8 @@ a {
   display: none;
 }
 .cid-s48OLK6784 .navbar.collapsed.opened .dropdown-menu {
+  z-index: 1000;
+
   top: 0;
 }
 @media (min-width: 992px) {

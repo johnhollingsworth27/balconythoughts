@@ -2,6 +2,10 @@ import React from 'react';
 import '../styles/style.css';
 import '../styles/bootstrap-grid.min.css';
 import '../styles/bootstrap-reboot.min.css';
+import Navbar from './navbar';
+import Header from './header';
+
+
 
 //import '../styles/bootstrap.min.css';
 //import '../styles/gdpr-styles.css';
@@ -13,6 +17,8 @@ import '../styles/bootstrap-reboot.min.css';
 const Home = () => {
   return (
     <div>
+      <Navbar />
+      <Header />
       <section data-bs-version="5.1" className="menu cid-s48OLK6784" once="menu" id="menu1-h">
         <div className="mbr-overlay" style={{ opacity: 0.5, backgroundColor: 'rgb(255, 255, 255)' }}></div>
         <div className="align-center container" style={{ position: 'absolute', zIndex: 1, top: '5%', left: 0, bottom: 0, right: 0, display: 'flex', justifyContent: 'center', alignItems: 'center', transform: 'translateY(-50%)' }}>

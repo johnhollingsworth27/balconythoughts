@@ -3361,29 +3361,36 @@ a {
 }
 .cid-tq3PMFlkRD {
   padding-top: 10rem;
+  
   padding-bottom: 10rem;
   background-image: url("../../../assets/images/img-5739-1125x754.jpg");
 }
 .cid-tq3PMFlkRD .mbr-section-title {
   text-align: center;
   color: #203530;
+  
+  
 }
 .cid-tq3PMFlkRD .mbr-text,
 .cid-tq3PMFlkRD .mbr-section-btn {
   color: #ffffff;
   text-align: center;
 }
-@media (max-width: 991px) {
+@media (max-width: 1500px) {
   .cid-tq3PMFlkRD .mbr-section-title,
   .cid-tq3PMFlkRD .mbr-section-btn,
   .cid-tq3PMFlkRD .mbr-text {
     text-align: center;
   }
 }
+
+
+
+/*THIS is penn state picture*/
 .cid-tq3SMnQfaB {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/mbr-1-1920x1440.jpg");
+  background-image: url("../../../assets/images/blimpcampus.jpeg");
 }
 .cid-tq3SMnQfaB .mbr-fallback-image.disabled {
   display: none;
@@ -3421,7 +3428,7 @@ a {
   color: #203530;
 }
 .cid-tq3SMnQfaB .nav-tabs .nav-item {
-  margin-right: 1.5rem;
+  margin-right: 0.5rem;
 }
 .cid-tq3SMnQfaB .nav-link,
 .cid-tq3SMnQfaB .nav-link.active {
@@ -5976,9 +5983,11 @@ a {
   padding-top: 11rem;
   padding-bottom: 10rem;
   background-image: url("../../../assets/images/horiz.webp");
+  
 }
 .cid-tA2nw3aGLd .mbr-section-title {
   text-align: center;
+  
   color: #203530;
 }
 .cid-tA2nw3aGLd .mbr-text,
@@ -6012,6 +6021,17 @@ a {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
 /* This is piano picture on homepage*/
 .cid-s48MCQYojq {
   padding-top: 4rem;
@@ -6034,11 +6054,25 @@ a {
     text-align: center;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
 .cid-s48OLK6784 {
   z-index: 1000;
   width: 100%;
   position: relative;
   /*THIS IS THE GAP AROUND THE HEADER*/
+  background-color: #415d51;
+
   min-height: 0px;
 }
 .cid-s48OLK6784 nav.navbar {
@@ -6380,8 +6414,8 @@ a {
   }
 }
 .cid-s48P1Icc8J {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
   background-color: #203530;
 }
 .cid-s48P1Icc8J .row-links {

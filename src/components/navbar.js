@@ -8,12 +8,12 @@ function Navbar() {
         <div className="container-fluid">
           <div className="navbar-brand">
             <span className="navbar-logo">
-              <a href="index.html">
+              <a href="/">
                 <img src="assets/images/mbr-84x119.png" alt="Mobirise Website Builder" style={{ height: "3.8rem" }} />
               </a>
             </span>
             <span className="navbar-caption-wrap">
-              <a className="navbar-caption text-primary display-7" href="index.html">
+              <a className="navbar-caption text-primary display-7" href="/">
                 balconythoughts
               </a>
             </span>

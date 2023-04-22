@@ -101,6 +101,20 @@ const Academics = () => {
                 </div>
 
             </section>
+
+            <section data-bs-version="5.1" className="image3 cid-tq3SWOK1iv" id="image3-1b">
+                <div className="container">
+                    <div className="row justify-content-center">
+                        <div className="col-12 col-lg-11">
+                            <div className="image-wrapper">
+                                <img src="assets/images/screenshot-2022-12-15-at-12.59.06-am-2136x289.png" alt="Mobirise Website Builder"/>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
         </div>
     );
 };

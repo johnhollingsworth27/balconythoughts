@@ -6,6 +6,9 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import AcademicsPage from './pages/AcademicsPage';
 import JournalEntryPage from './pages/JournalEntryPage';
 import Recipes from './components/recipes';
+import Houseplants from './components/houseplants';
+import Career from './components/career';
+
 
 
 
@@ -19,6 +22,9 @@ function App() {
           <Route path="/academics" element={<AcademicsPage />} />
           <Route path="/journal" element={<JournalEntryPage />} />
           <Route path="/recipes" element={<Recipes />} />
+          <Route path="/houseplants" element={<Houseplants />} />
+          <Route path="/career" element={<Career />} />
+
         </Routes>
         <Footer />
         <div id="content"></div>

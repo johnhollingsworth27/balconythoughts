@@ -53,7 +53,7 @@ function Navbar() {
                 <div className="dropdown-menu">
                 <Link className="dropdown-item" to="/academics">Academics</Link>
 
-                  <a className="dropdown-item" href="/career.html">Career</a>
+                <Link className="dropdown-item" to="/career">Career</Link>                  
                   <a className="dropdown-item" href="/exercise.html">Exercise</a>
                   <a className="dropdown-item" href="/finance.html">Finance</a>
                 <Link className="dropdown-item" to="/journal">Journal</Link>
@@ -74,7 +74,7 @@ function Navbar() {
                 </a>
                 <div className="dropdown-menu">
                   <a className="dropdown-item" href="/philosophy.html">Philosophy</a>
-                  <a className="dropdown-item" href="/houseplants.html">Houseplants</a>
+                  <Link className="dropdown-item" to="/houseplants">Houseplants</Link>                  
                   <a className="dropdown-item" href="https://www.chess.com" target="_blank">Chess</a>
                 </div>
               </li>

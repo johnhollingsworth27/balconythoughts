@@ -8,7 +8,7 @@ const Career = () => {
     return (
         <div>
 
-            <section data-bs-version="5.1" className="header1 cid-tA2E9yc2OJ" id="header1-2p">
+            <section data-bs-version="5.1" className="header1 cid-tq4tzgCROP" id="header1-2p">
                 <div className="mbr-overlay" style={{ opacity: 0.5, backgroundColor: 'rgb(255, 255, 255)' }}></div>
                 <div className="align-center container">
                     <div className="row justify-content-center">
@@ -138,7 +138,7 @@ const Career = () => {
                     </div>
                 </div>
             </section>
-
+            
 
 
 

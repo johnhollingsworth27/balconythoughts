@@ -8,6 +8,8 @@ import JournalEntryPage from './pages/JournalEntryPage';
 import Recipes from './components/recipes';
 import Houseplants from './components/houseplants';
 import Career from './components/career';
+import Gallery from './components/gallery';
+import Philosophy from './components/philosophy';
 
 
 
@@ -24,6 +26,8 @@ function App() {
           <Route path="/recipes" element={<Recipes />} />
           <Route path="/houseplants" element={<Houseplants />} />
           <Route path="/career" element={<Career />} />
+          <Route path="/philosophy" element={<Philosophy />} />
+          <Route path="/gallery" element={<Gallery />} />
 
         </Routes>
         <Footer />

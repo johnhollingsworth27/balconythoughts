@@ -97,54 +97,72 @@ const Recipes = () => {
                                 <li className="nav-item"><a className="nav-link mbr-fonts-style display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-1a_tab4" aria-selected="false"><strong>Chicken Orzo</strong></a></li>
                             </ul>
                             <div className="tab-content">
-                                    <div id="tabs1-1a_tab0" className="tab-pane active" role="tabpanel">
-                                        <div className="row">
-                                            <div className="col-md-12">
-                                                <p className="mbr-text mbr-fonts-style display-7">Chicken Tikka Masala<br />Per 2 pounds Chicken<br />2 tbsp Butter<br />Add half of a large onion and sauté until almost translucent<br />Add 1 diced tomato<br />Garlic paste<br />1 tsp turmeric<br />1/2 tbsp curry powder<br />Add chicken<br />Salt to taste<br /><br /><br />
-                                                </p>
-                                            </div>
+                                <div id="tabs1-1a_tab0" className="tab-pane active" role="tabpanel">
+                                    <div className="row">
+                                        <div className="col-md-12">
+                                            <p className="mbr-text mbr-fonts-style display-7">Chicken Tikka Masala<br />Per 2 pounds Chicken<br />2 tbsp Butter<br />Add half of a large onion and sauté until almost translucent<br />Add 1 diced tomato<br />Garlic paste<br />1 tsp turmeric<br />1/2 tbsp curry powder<br />Add chicken<br />Salt to taste<br /><br /><br />
+                                            </p>
                                         </div>
                                     </div>
+                                </div>
 
-                                    <div id="tabs1-1a_tab1" className="tab-pane" role="tabpanel">
-                                        <div className="row">
-                                            <div className="col-md-12">
-                                                <p className="mbr-text mbr-fonts-style display-7">Vodka Sauce<br />Serves two<br />1/4 cup olive oil<br />1/4 green onion<br />1 small glove garlic, diced<br />1/4 cup tomato paste<br />1 tbsp vodka<br />1 tsp red pepper flakes<br />225 grams pasta<br />1 tbsp butter<br />1/4 cup parmesan cheese<br />Salt and pepper to taste<br /><br /></p>
-                                            </div>
+                                <div id="tabs1-1a_tab1" className="tab-pane" role="tabpanel">
+                                    <div className="row">
+                                        <div className="col-md-12">
+                                            <p className="mbr-text mbr-fonts-style display-7">Vodka Sauce<br />Serves two<br />1/4 cup olive oil<br />1/4 green onion<br />1 small glove garlic, diced<br />1/4 cup tomato paste<br />1 tbsp vodka<br />1 tsp red pepper flakes<br />225 grams pasta<br />1 tbsp butter<br />1/4 cup parmesan cheese<br />Salt and pepper to taste<br /><br /></p>
                                         </div>
                                     </div>
+                                </div>
 
-                                    <div id="tabs1-1a_tab2" className="tab-pane" role="tabpanel">
-                                        <div className="row">
-                                            <div className="col-md-12">
-                                                <p className="mbr-text mbr-fonts-style display-7">Chipotle Chicken Tacos<br />2 pounds boneless skinless chicken thighs<br />Season with: Salt, garlic, onion powder, paprika, chili powder<br />Optional: Cumin, black pepper, lime juice<br /><br />Broil 475 for 12 minutes</p>
-                                            </div>
+                                <div id="tabs1-1a_tab2" className="tab-pane" role="tabpanel">
+                                    <div className="row">
+                                        <div className="col-md-12">
+                                            <p className="mbr-text mbr-fonts-style display-7">Chipotle Chicken Tacos<br />2 pounds boneless skinless chicken thighs<br />Season with: Salt, garlic, onion powder, paprika, chili powder<br />Optional: Cumin, black pepper, lime juice<br /><br />Broil 475 for 12 minutes</p>
                                         </div>
                                     </div>
+                                </div>
 
-                                    <div id="tabs1-1a_tab3" className="tab-pane" role="tabpanel">
-                                        <div className="row">
-                                            <div className="col-md-12">
-                                                <p className="mbr-text mbr-fonts-style display-7">Blackened Salmon<br />Season salmon with dijon mustard and old bay<br />Air-fry at 375 for 15 minutes<br /><br />Side rice<br />Side vegetable: broccoli, asparagus</p>
-                                            </div>
+                                <div id="tabs1-1a_tab3" className="tab-pane" role="tabpanel">
+                                    <div className="row">
+                                        <div className="col-md-12">
+                                            <p className="mbr-text mbr-fonts-style display-7">Blackened Salmon<br />Season salmon with dijon mustard and old bay<br />Air-fry at 375 for 15 minutes<br /><br />Side rice<br />Side vegetable: broccoli, asparagus</p>
                                         </div>
                                     </div>
+                                </div>
 
-                                    <div id="tabs1-1a_tab4" className="tab-pane" role="tabpanel">
-                                        <div className="row">
-                                            <div className="col-md-12">
-                                                <p className="mbr-text mbr-fonts-style display-7">Creamy Chicken Orzo<br />Chicken thighs or tenders 1-2 pounds<br />Season: oregano, paprika, red pepper flakes, salt, pepper, oil<br />Cook chicken in pan then remove<br />Add 2ish tbsp butter<br />1/2 diced onion, garlic<br /><br />Add orzo (~1 cup)<br />Deglaze with white wine<br />Add chicken broth and bring to boil<br />Add dijon mustard, sun-dried tomatoes, spinach<br />Add splash heavy cream<br /><br />Add chicken back in<br />Bake entire pot in oven at 400 for 15 minutes<br />Top with parmesan cheese<br /><br /></p>
-                                            </div>
+                                <div id="tabs1-1a_tab4" className="tab-pane" role="tabpanel">
+                                    <div className="row">
+                                        <div className="col-md-12">
+                                            <p className="mbr-text mbr-fonts-style display-7">Creamy Chicken Orzo<br />Chicken thighs or tenders 1-2 pounds<br />Season: oregano, paprika, red pepper flakes, salt, pepper, oil<br />Cook chicken in pan then remove<br />Add 2ish tbsp butter<br />1/2 diced onion, garlic<br /><br />Add orzo (~1 cup)<br />Deglaze with white wine<br />Add chicken broth and bring to boil<br />Add dijon mustard, sun-dried tomatoes, spinach<br />Add splash heavy cream<br /><br />Add chicken back in<br />Bake entire pot in oven at 400 for 15 minutes<br />Top with parmesan cheese<br /><br /></p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-
-
-
+                </div>
             </section>
+
+            <section data-bs-version="5.1" className="header1 yoga" id="header1-f">
+                <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+                <div className="align-center container">
+                    <div className="row justify-content-center">
+                        <div className="col-12 col-lg-9">
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section data-bs-version="5.1" className="header1 dumbbell" id="header1-f">
+                <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+                <div className="align-center container">
+                    <div className="row justify-content-center">
+                        <div className="col-12 col-lg-9">
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
         </div>);
 };
 

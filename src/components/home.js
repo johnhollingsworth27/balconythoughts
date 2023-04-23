@@ -6,14 +6,6 @@ import Navbar from './navbar';
 import Header from './header';
 
 
-
-//import '../styles/bootstrap.min.css';
-//import '../styles/gdpr-styles.css';
-//import '../styles/mbr-additional.css';
-//import '../styles/mobirise-icons.css';
-//import '../styles/mobirise2.css';
-//import '../styles/styles.css';
-
 const Home = () => {
   return (
     <div>

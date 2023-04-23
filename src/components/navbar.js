@@ -54,10 +54,10 @@ function Navbar() {
                 <Link className="dropdown-item" to="/academics">Academics</Link>
 
                 <Link className="dropdown-item" to="/career">Career</Link>                  
-                  <a className="dropdown-item" href="/exercise.html">Exercise</a>
-                  <a className="dropdown-item" href="/finance.html">Finance</a>
+                <a className="dropdown-item" href="/finance.html">Finance</a>
+                <Link className="dropdown-item" to="/gallery">Gallery</Link>                  
                 <Link className="dropdown-item" to="/journal">Journal</Link>
-                <Link className="dropdown-item" to="/recipes">Recipes</Link>
+                <Link className="dropdown-item" to="/recipes">Health</Link>
                   <a className="dropdown-item" href="/mental health.html">Mental Health</a>
                 </div>
               </li>
@@ -73,8 +73,8 @@ function Navbar() {
                   Interests
                 </a>
                 <div className="dropdown-menu">
-                  <a className="dropdown-item" href="/philosophy.html">Philosophy</a>
-                  <Link className="dropdown-item" to="/houseplants">Houseplants</Link>                  
+                <Link className="dropdown-item" to="/philosophy">Philosophy</Link>                  
+                <Link className="dropdown-item" to="/houseplants">Houseplants</Link>                  
                   <a className="dropdown-item" href="https://www.chess.com" target="_blank">Chess</a>
                 </div>
               </li>

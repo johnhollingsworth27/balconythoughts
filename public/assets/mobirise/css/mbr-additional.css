@@ -2192,7 +2192,7 @@ a {
 }
 .cid-tA2E9yc2OJ {
   padding-top: 10rem;
-  padding-bottom: 8rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/mbr-1920x706.jpg");
 }
 .cid-tA2E9yc2OJ .mbr-section-title {
@@ -2235,7 +2235,8 @@ a {
 }
 .cid-tq4oVn6DTN li {
   position: relative;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
+  margin-top: 0rem;
 }
 .cid-tq4oVn6DTN ul li::before {
   position: absolute;
@@ -2272,15 +2273,19 @@ a {
 .cid-tq4pAtwrlQ ul {
   list-style: none;
   margin: 0;
-  padding-left: 2.5rem;
+  padding-left: 2rem;
+  
 }
 .cid-tq4pAtwrlQ li {
   position: relative;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
+  margin-top: 0rem;
+
+  padding: 1rem;
 }
 .cid-tq4pAtwrlQ ul li::before {
   position: absolute;
-  left: -1.6rem;
+  left: 0rem;
   content: "\2022";
   color: #415d51;
   font-weight: bold;
@@ -2294,7 +2299,7 @@ a {
   color: #d4d0d0;
 }
 .cid-tq4pBnqXs5 {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #415d51;
 }
@@ -2317,7 +2322,9 @@ a {
 }
 .cid-tq4pBnqXs5 li {
   position: relative;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
+  margin-top: 0rem;
+
 }
 .cid-tq4pBnqXs5 ul li::before {
   position: absolute;
@@ -2326,17 +2333,18 @@ a {
   color: #415d51;
   font-weight: bold;
   font-size: 2rem;
-  width: 1.6rem;
+  width: 2rem;
 }
 .cid-tq4pBnqXs5 H3 {
   color: #203530;
 }
 .cid-tq4pBnqXs5 .list {
   color: #d4d0d0;
+  
 }
 .cid-tq4oWmRlRY {
-  padding-top: 3rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #581922;
 }
 .cid-tq4oWmRlRY .line {
@@ -2348,6 +2356,7 @@ a {
 .cid-tq4oWmRlRY .mbr-text {
   text-align: left;
   color: #d4d0d0;
+  
 }
 .cid-tq4tGcfoCN {
   padding-top: 0rem;
@@ -2720,9 +2729,10 @@ a {
   }
 }
 .cid-tq4tzgCROP {
-  padding-top: 3rem;
-  padding-bottom: 4rem;
+  padding-top: 10rem;
+  padding-bottom: 1rem;
   background-image: url("../../../assets/images/sfsfsf-2000x691.png");
+  
 }
 .cid-tq4tzgCROP .mbr-fallback-image.disabled {
   display: none;
@@ -6021,15 +6031,163 @@ a {
 }
 
 
+/* yoga this */
+.yoga {
+  padding-top: 130vh; /* Adjust to fit screen */
+  padding-bottom: 0vh; /* Adjust to fit screen */
+  background-image: url("../../../assets/images/yoga.jpg_large");
+  background-size: cover;
+  background-position: center;
+}
+.yoga .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.yoga .mbr-text,
+.yoga .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .yoga .mbr-section-title,
+  .yoga .mbr-section-btn,
+  .yoga .mbr-text {
+    text-align: center;
+  }
+}
+
+
+
+
+/* dumbbell this */
+.dumbbell {
+  padding-top: 165vh; /* Adjust to fit screen */
+  padding-bottom: 0vh; /* Adjust to fit screen */
+  background-image: url("../../../assets/images/dumbbell.jpeg");
+  background-size: cover;
+  background-position: center;
+}
+.dumbbell .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.dumbbell .mbr-text,
+.dumbbell .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .dumbbell .mbr-section-title,
+  .dumbbell .mbr-section-btn,
+  .dumbbell .mbr-text {
+    text-align: center;
+  }
+}
 
 
 
 
 
 
+/* GALLERY1 this brothers in nyc*/
+.gallery1 {
+  padding-top: 18rem;
+  padding-bottom: 18rem;
+  background-image: url("../../../assets/images/personal/brotherlaughnyc.jpeg");
+  opacity: 0rem;
+}
+.gallery1 .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallery1 .mbr-text,
+.gallery1 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallery1 .mbr-section-title,
+  .gallery1 .mbr-section-btn,
+  .gallery1 .mbr-text {
+    text-align: center;
+  }
+}
 
 
 
+
+/* GALLERY2 this */
+.gallery2 {
+  padding-top: 40rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/personal/jazhammock.jpeg");
+}
+.gallery2 .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallery2 .mbr-text,
+.gallery2 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallery2 .mbr-section-title,
+  .gallery2 .mbr-section-btn,
+  .gallery2 .mbr-text {
+    text-align: center;
+  }
+}
+
+
+
+
+/* GALLERY3 this */
+.gallery3 {
+  padding-top: 40rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/personal/cocktogon.JPG");
+}
+.gallery3 .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallery3 .mbr-text,
+.gallery3 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallery3 .mbr-section-title,
+  .gallery3 .mbr-section-btn,
+  .gallery3 .mbr-text {
+    text-align: center;
+  }
+}
+
+
+/* GALLERY4 this */
+.gallery4 {
+  padding-top: 20rem;
+  padding-bottom: 14rem;
+  background-image: url("../../../assets/images/personal/IMG_7226.jpeg");
+}
+.gallery4 .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallery4 .mbr-text,
+.gallery4 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallery4 .mbr-section-title,
+  .gallery4 .mbr-section-btn,
+  .gallery4 .mbr-text {
+    text-align: center;
+  }
+}
 
 
 /* This is piano picture on homepage*/

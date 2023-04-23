@@ -2,12 +2,7 @@ import React from 'react';
 import '../styles/style.css';
 import '../styles/bootstrap-grid.min.css';
 import '../styles/bootstrap-reboot.min.css';
-//import '../styles/bootstrap.min.css';
-//import '../styles/gdpr-styles.css';
-//import '../styles/mbr-additional.css';
-//import '../styles/mobirise-icons.css';
-//import '../styles/mobirise2.css';
-//import '../styles/styles.css';
+
 
 const Academics = () => {
     return (
@@ -102,18 +97,6 @@ const Academics = () => {
 
             </section>
 
-            <section data-bs-version="5.1" className="image3 cid-tq3SWOK1iv" id="image3-1b">
-                <div className="container">
-                    <div className="row justify-content-center">
-                        <div className="col-12 col-lg-11">
-                            <div className="image-wrapper">
-                                <img src="assets/images/screenshot-2022-12-15-at-12.59.06-am-2136x289.png" alt="Mobirise Website Builder"/>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
         </div>
     );

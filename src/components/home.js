@@ -29,8 +29,9 @@ const Home = () => {
             </div>
           </div>
         </div>
-        {/* Rest of the code */}
       </section>
+
+
       <section data-bs-version="5.1" className="content7 cid-tA2rnsadC2" id="content7-2l">
         <div className="container">
           <div className="row justify-content-center">
@@ -45,6 +46,8 @@ const Home = () => {
           </div>
         </div>
       </section>
+
+
       <section data-bs-version="5.1" className="header1 cid-s48MCQYojq" id="header1-f">
         <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(255, 255, 255)' }}></div>
         <div className="align-center container">
@@ -53,11 +56,9 @@ const Home = () => {
             </div>
           </div>
         </div>
-        {/* Rest of the code */}
       </section>
-      
+
       <section className="display-7" style={{ padding: 0, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap', alignContent: 'center', display: 'flex', position: 'relative', height: '0rem' }}>
-        {/* Rest of the code */}
       </section>
     </div>
   );

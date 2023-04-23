@@ -5,6 +5,8 @@ import Footer from './components/footer';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import AcademicsPage from './pages/AcademicsPage';
 import JournalEntryPage from './pages/JournalEntryPage';
+import Recipes from './components/recipes';
+
 
 
 function App() {
@@ -16,6 +18,7 @@ function App() {
           <Route exact path="/" element={<Home />} />
           <Route path="/academics" element={<AcademicsPage />} />
           <Route path="/journal" element={<JournalEntryPage />} />
+          <Route path="/recipes" element={<Recipes />} />
         </Routes>
         <Footer />
         <div id="content"></div>

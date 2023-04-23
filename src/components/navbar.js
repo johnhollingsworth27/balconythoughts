@@ -57,7 +57,7 @@ function Navbar() {
                   <a className="dropdown-item" href="/exercise.html">Exercise</a>
                   <a className="dropdown-item" href="/finance.html">Finance</a>
                 <Link className="dropdown-item" to="/journal">Journal</Link>
-                  <a className="dropdown-item" href="/recipes.html">Recipes</a>
+                <Link className="dropdown-item" to="/recipes">Recipes</Link>
                   <a className="dropdown-item" href="/mental health.html">Mental Health</a>
                 </div>
               </li>
@@ -75,7 +75,7 @@ function Navbar() {
                 <div className="dropdown-menu">
                   <a className="dropdown-item" href="/philosophy.html">Philosophy</a>
                   <a className="dropdown-item" href="/houseplants.html">Houseplants</a>
-                  <a className="dropdown-item" href="https://www.chess.com">Chess</a>
+                  <a className="dropdown-item" href="https://www.chess.com" target="_blank">Chess</a>
                 </div>
               </li>
               <li className="nav-item dropdown">
@@ -90,7 +90,7 @@ function Navbar() {
                   Tech
                 </a>
                 <div className="dropdown-menu">
-                  <a className="dropdown-item" href="https://chat.openai.com/">GPT</a>
+                <a className="dropdown-item" href="https://chat.openai.com/" target="_blank">GPT</a>
                 </div>
               </li>
             </ul>

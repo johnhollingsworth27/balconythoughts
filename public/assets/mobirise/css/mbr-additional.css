@@ -254,7 +254,7 @@ body {
 .btn-white.focus,
 .btn-white.active {
   color: #4f4f4f !important;
-  background-color: #cfcfcf !important;
+  background-color: #cfcfcfa1 !important;
   border-color: #cfcfcf !important;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
 }
@@ -3390,7 +3390,7 @@ a {
 .cid-tq3SMnQfaB {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/blimpcampus.jpeg");
+  background-image: url("../../../assets/images/new.jpeg");
 }
 .cid-tq3SMnQfaB .mbr-fallback-image.disabled {
   display: none;

@@ -14,6 +14,16 @@ function Gallery() {
         </div>
       </section>
 
+      <section data-bs-version="5.1" className="header1 galleryx" id="header1-f">
+        <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+        <div className="align-center container">
+          <div className="row justify-content-center">
+            <div className="col-12 col-lg-9">
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section data-bs-version="5.1" className="header1 gallery2" id="header1-f">
         <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
         <div className="align-center container">
@@ -24,7 +34,15 @@ function Gallery() {
         </div>
       </section>
 
-
+      <section data-bs-version="5.1" className="header1 gallery7" id="header1-f">
+        <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+        <div className="align-center container">
+          <div className="row justify-content-center">
+            <div className="col-12 col-lg-9">
+            </div>
+          </div>
+        </div>
+      </section>
 
       <section data-bs-version="5.1" className="header1 gallery3" id="header1-f">
         <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
@@ -49,9 +67,8 @@ function Gallery() {
       </section>
 
 
-
-      <section data-bs-version="5.1" className="header1 cid-s48MCQYojq" id="header1-f">
-        <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+      <section data-bs-version="5.1" className="header1 gallery5" id="header1-f">
+        <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
         <div className="align-center container">
           <div className="row justify-content-center">
             <div className="col-12 col-lg-9">
@@ -62,8 +79,8 @@ function Gallery() {
 
 
 
-      <section data-bs-version="5.1" className="header1 cid-s48MCQYojq" id="header1-f">
-        <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+      <section data-bs-version="5.1" className="header1 gallery6" id="header1-f">
+        <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
         <div className="align-center container">
           <div className="row justify-content-center">
             <div className="col-12 col-lg-9">
@@ -73,9 +90,8 @@ function Gallery() {
       </section>
 
 
-
-      <section data-bs-version="5.1" className="header1 cid-s48MCQYojq" id="header1-f">
-        <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+      <section data-bs-version="5.1" className="header1 gallerycliff" id="header1-f">
+        <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
         <div className="align-center container">
           <div className="row justify-content-center">
             <div className="col-12 col-lg-9">
@@ -83,6 +99,7 @@ function Gallery() {
           </div>
         </div>
       </section>
+      
     </>
   );
 }

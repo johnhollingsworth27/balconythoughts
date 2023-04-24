@@ -6118,9 +6118,9 @@ a {
 
 /* GALLERY2 this */
 .gallery2 {
-  padding-top: 40rem;
+  padding-top: 20rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/personal/jazhammock.jpeg");
+  background-image: url("../../../assets/images/IMG_2782.jpeg");
 }
 .gallery2 .mbr-section-title {
   text-align: center;
@@ -6139,12 +6139,33 @@ a {
   }
 }
 
-
+/* GALLERYx this */
+.galleryx {
+  padding-top: 15rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/IMG_4059.JPG");
+}
+.galleryx .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.galleryx .mbr-text,
+.galleryx .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .galleryx .mbr-section-title,
+  .galleryx .mbr-section-btn,
+  .galleryx .mbr-text {
+    text-align: center;
+  }
+}
 
 
 /* GALLERY3 this */
 .gallery3 {
-  padding-top: 40rem;
+  padding-top: 25rem;
   padding-bottom: 10rem;
   background-image: url("../../../assets/images/personal/cocktogon.JPG");
 }
@@ -6185,6 +6206,102 @@ a {
   .gallery4 .mbr-section-title,
   .gallery4 .mbr-section-btn,
   .gallery4 .mbr-text {
+    text-align: center;
+  }
+}
+
+
+/* GALLERY5 this */
+.gallery5 {
+  padding-top: 10rem;
+  padding-bottom: 14rem;
+  background-image: url("../../../assets/images/IMG_5428.JPG");
+}
+.gallery5 .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallery5 .mbr-text,
+.gallery5 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallery5 .mbr-section-title,
+  .gallery5 .mbr-section-btn,
+  .gallery5 .mbr-text {
+    text-align: center;
+  }
+}
+
+
+
+/* GALLERY6 this */
+.gallery6 {
+  padding-top: 15rem;
+  padding-bottom: 14rem;
+  background-image: url("../../../assets/images/IMG_4252.PNG");
+}
+.gallery6 .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallery6 .mbr-text,
+.gallery6 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallery6 .mbr-section-title,
+  .gallery6 .mbr-section-btn,
+  .gallery6 .mbr-text {
+    text-align: center;
+  }
+}
+
+/* GALLERY7 this */
+.gallery7 {
+  padding-top: 10rem;
+  padding-bottom: 14rem;
+  background-image: url("../../../assets/images/IMG_7949.jpeg");
+}
+.gallery7 .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallery7 .mbr-text,
+.gallery7 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallery7 .mbr-section-title,
+  .gallery7 .mbr-section-btn,
+  .gallery7 .mbr-text {
+    text-align: center;
+  }
+}
+
+
+/* GALLERYcliff this */
+.gallerycliff {
+  padding-top: 0rem;
+  padding-bottom: 20rem;
+  background-image: url("../../../assets/images/IMG_4195.jpeg");
+}
+.gallerycliff .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallerycliff .mbr-text,
+.gallerycliff .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallerycliff .mbr-section-title,
+  .gallerycliff .mbr-section-btn,
+  .gallerycliff .mbr-text {
     text-align: center;
   }
 }

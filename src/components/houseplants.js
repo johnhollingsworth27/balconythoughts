@@ -147,7 +147,6 @@ const Houseplants = () => {
                 </div>
             </section>
 
-
             <section data-bs-version="5.1" className="gallery3 cid-tAqwYTe5we" id="gallery3-3g">
                 <div className="container">
                     <div className="mbr-section-head">

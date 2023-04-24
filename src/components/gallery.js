@@ -44,7 +44,7 @@ function Gallery() {
         </div>
       </section>
 
-      <section data-bs-version="5.1" className="header1 gallery3" id="header1-f">
+      <section data-bs-version="5.1" className="header1 gallerycoc" id="header1-f">
         <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
         <div className="align-center container">
           <div className="row justify-content-center">

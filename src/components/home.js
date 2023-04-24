@@ -4,6 +4,12 @@ import '../styles/bootstrap-grid.min.css';
 import '../styles/bootstrap-reboot.min.css';
 import Navbar from './navbar';
 import Header from './header';
+import GitHubCalendar from "react-github-calendar";
+import MyTimeline from './timeline';
+
+
+
+
 
 
 const Home = () => {
@@ -11,6 +17,7 @@ const Home = () => {
     <div>
       <Navbar />
       <Header />
+      
       <section data-bs-version="5.1" className="menu cid-s48OLK6784" once="menu" id="menu1-h">
         <div className="mbr-overlay" style={{ opacity: 0.5, backgroundColor: 'rgb(255, 255, 255)' }}></div>
         <div className="align-center container" style={{ position: 'absolute', zIndex: 1, top: '5%', left: 0, bottom: 0, right: 0, display: 'flex', justifyContent: 'center', alignItems: 'center', transform: 'translateY(-50%)' }}>
@@ -52,6 +59,13 @@ const Home = () => {
 
       <section className="display-7" style={{ padding: 0, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap', alignContent: 'center', display: 'flex', position: 'relative', height: '0rem' }}>
       </section>
+
+      <div className="calendar-container">
+        <GitHubCalendar username="johnhollingsworth27" />
+      </div>
+
+      
+
     </div>
   );
 };

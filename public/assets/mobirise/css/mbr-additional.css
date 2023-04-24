@@ -6235,6 +6235,30 @@ a {
 }
 
 
+/* GALLERYcoCollage this */
+.gallerycoCollage {
+  padding-top: 60rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/COcollage.png");
+}
+.gallerycoCollage .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.gallerycoCollage .mbr-text,
+.gallerycoCollage .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .gallerycoCollage .mbr-section-title,
+  .gallerycoCollage .mbr-section-btn,
+  .gallerycoCollage .mbr-text {
+    text-align: center;
+  }
+}
+
+
 
 /* GALLERY6 this */
 .gallery6 {
@@ -6335,7 +6359,38 @@ a {
 
 
 
+/* GALLERYolive this */
+.galleryolive {
+  padding-top: 38rem;
+  padding-bottom: 14rem;
+  background-image: url("../../../assets/images/oliveBB.png");
+}
+.galleryolive .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.galleryolive .mbr-text,
+.galleryolive .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .galleryolive .mbr-section-title,
+  .galleryolive .mbr-section-btn,
+  .galleryolive .mbr-text {
+    text-align: center;
+  }
+}
 
+
+/*github calendar*/
+.calendar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 30vh;
+  background-color: #415d51
+}
 
 
 

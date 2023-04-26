@@ -15,6 +15,7 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "framer-motion": "^10.12.2",
+    "griffith": "^1.30.0",
     "jquery": "^3.6.4",
     "mysql2": "^3.2.0",
     "react": "^18.2.0",
@@ -25,6 +26,7 @@
     "react-helmet": "^6.1.0",
     "react-router-dom": "^6.10.0",
     "react-scripts": "^5.0.1",
+    "vertical-timeline-component-react": "^4.4.1",
     "web-vitals": "^2.1.4",
     "xlsx": "^0.18.5"
   },

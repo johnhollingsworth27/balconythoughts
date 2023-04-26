@@ -51,13 +51,13 @@ function Navbar() {
                   Personal
                 </a>
                 <div className="dropdown-menu">
-                <Link className="dropdown-item" to="/academics">Academics</Link>
+                  <Link className="dropdown-item" to="/academics">Academics</Link>
 
-                <Link className="dropdown-item" to="/career">Career</Link>                  
-                <a className="dropdown-item" href="/finance.html">Finance</a>
-                <Link className="dropdown-item" to="/gallery">Gallery</Link>                  
-                <Link className="dropdown-item" to="/journal">Journal</Link>
-                <Link className="dropdown-item" to="/recipes">Health</Link>
+                  <Link className="dropdown-item" to="/career">Career</Link>
+                  <a className="dropdown-item" href="/finance.html">Finance</a>
+                  <Link className="dropdown-item" to="/gallery">Gallery</Link>
+                  <Link className="dropdown-item" to="/journal">Journal</Link>
+                  <Link className="dropdown-item" to="/recipes">Health</Link>
                   <a className="dropdown-item" href="/mental health.html">Mental Health</a>
                 </div>
               </li>
@@ -73,9 +73,13 @@ function Navbar() {
                   Interests
                 </a>
                 <div className="dropdown-menu">
-                <Link className="dropdown-item" to="/philosophy">Philosophy</Link>                  
-                <Link className="dropdown-item" to="/houseplants">Houseplants</Link>                  
+                  <a className="dropdown-item" href="https://www.goodreads.com" target="_blank">Books</a>
                   <a className="dropdown-item" href="https://www.chess.com" target="_blank">Chess</a>
+                  <Link className="dropdown-item" to="/houseplants">Houseplants</Link>
+                  <Link className="dropdown-item" to="/philosophy">Philosophy</Link>
+
+
+
                 </div>
               </li>
               <li className="nav-item dropdown">
@@ -90,11 +94,27 @@ function Navbar() {
                   Tech
                 </a>
                 <div className="dropdown-menu">
-                <a className="dropdown-item" href="https://chat.openai.com/" target="_blank">GPT</a>
+                  <a className="dropdown-item" href="https://chat.openai.com/" target="_blank">GPT</a>
+                  <a className="dropdown-item" href="https://github.com/johnhollingsworth27" target="_blank">GitHub</a>
                 </div>
               </li>
             </ul>
-            {/* ... */}
+            <div className="icons-menu">
+              <a className="iconfont-wrapper" href="https://www.tiktok.com/en/" target="_blank">
+                <span className="p-2 mbr-iconfont mobi-mbri-clock mobi-mbri" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
+              </a>
+              <a className="iconfont-wrapper" href="https://twitter.com/home" target="_blank">
+                <span className="p-2 mbr-iconfont socicon-twitter socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
+              </a>
+              <a className="iconfont-wrapper" href="https://www.instagram.com/" target="_blank">
+                <span className="p-2 mbr-iconfont socicon-instagram socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
+              </a>
+            </div>
+
+
+
+
+
           </div>
         </div>
       </nav>

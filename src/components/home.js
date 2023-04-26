@@ -5,14 +5,17 @@ import '../styles/bootstrap-reboot.min.css';
 import Navbar from './navbar';
 import Header from './header';
 import GitHubCalendar from "react-github-calendar";
-import MyTimeline from './timeline';
-
-
-
+import GriffithPlayer from './griffithvideo';
 
 
 
 const Home = () => {
+
+  const h1Style = {
+    marginLeft: '1in',
+    marginRight: '1in',
+  };
+
   return (
     <div>
       <Navbar />
@@ -65,6 +68,11 @@ const Home = () => {
       </div>
 
       
+      <div>
+      <h1 style={h1Style}>Griffith Player Example</h1>
+      <GriffithPlayer />
+    </div>
+
 
     </div>
   );

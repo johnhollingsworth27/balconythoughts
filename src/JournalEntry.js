@@ -22,17 +22,17 @@ const JournalEntry = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     const timestamp = new Date().toLocaleString();
-  
+
     try {
       await axios.post('http://localhost:3001/entries', { text: entry, timestamp });
       setEntries([{ text: entry, timestamp }, ...entries]); // Add the new entry to the beginning of the entries array
     } catch (err) {
       console.error(err);
     }
-  
+
     setEntry('');
   };
-  
+
   const formatTimestamp = (timestamp) => {
     const date = new Date(timestamp);
     date.setHours(date.getHours() - 4);
@@ -46,30 +46,40 @@ const JournalEntry = () => {
       hour12: true,
     })}`;
   };
-  
+
   return (
-    <div className="journal-entry">
-      <form onSubmit={handleSubmit} className="journal-entry-form">
-        <textarea
-          className="journal-entry-input"
-          value={entry}
-          onChange={(e) => setEntry(e.target.value)}
-          placeholder="Write your journal entry here..."
-          required
-        />
-        <button type="submit" className="journal-entry-submit">
-          Submit
-        </button>
-      </form>
-      <div className="journal-entry-list">
-        {entries.map((entry, index) => (
-          <div key={index} className="journal-entry-item">
-            <p>{formatTimestamp(entry.timestamp)}</p>
-            <p>{entry.text}</p>
-          </div>
-        ))}
+    <>
+      <div style={{ backgroundColor: '#203530', marginTop: '70px', paddingTop: '20px' }}>
+        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+          <h1 className="mbr-section-title mbr-fonts-style mb-3 display-1" style={{ color: '#aa707e', marginBottom: '0' }}>
+            <strong>balconythoughts journal</strong>
+          </h1>
+        </div>
       </div>
-    </div>
+
+      <div className="journal-entry">
+        <form onSubmit={handleSubmit} className="journal-entry-form">
+          <textarea
+            className="journal-entry-input"
+            value={entry}
+            onChange={(e) => setEntry(e.target.value)}
+            placeholder="Write your journal entry here..."
+            required
+          />
+          <button type="submit" className="journal-entry-submit">
+            Submit
+          </button>
+        </form>
+        <div className="journal-entry-list">
+          {entries.map((entry, index) => (
+            <div key={index} className="journal-entry-item">
+              <p>{formatTimestamp(entry.timestamp)}</p>
+              <p>{entry.text}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </>
   );
 };
 

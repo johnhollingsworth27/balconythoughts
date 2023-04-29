@@ -11,6 +11,10 @@ import Career from './components/career';
 import Gallery from './components/gallery';
 import Philosophy from './components/philosophy';
 import History from './components/history';
+import Prehistory from './components/prehistory';
+import AncientHistory from './components/ancienthistory';
+
+
 
 
 
@@ -31,6 +35,9 @@ function App() {
           <Route path="/philosophy" element={<Philosophy />} />
           <Route path="/gallery" element={<Gallery />} />
           <Route path="/history" element={<History />} />
+          <Route path="/prehistory" element={<Prehistory />} />
+          <Route path="/ancienthistory" element={<AncientHistory />} />
+
 
         </Routes>
         <Footer />

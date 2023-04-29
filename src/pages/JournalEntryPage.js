@@ -12,7 +12,7 @@ const JournalEntryPage = () => {
   return (
     <div>
       <Navbar />
-      <Header />
+      
       <JournalEntry />
 
 

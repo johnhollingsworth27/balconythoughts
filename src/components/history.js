@@ -1,5 +1,9 @@
 import React, { useState } from 'react';
 import { Chrono } from 'react-chrono';
+import { Link } from 'react-router-dom';
+import GriffithPlayer from './griffithvideo';
+
+
 
 
 const History = () => {
@@ -7,6 +11,8 @@ const History = () => {
         {
             title: 'Prehistory (7 million - 3000 BCE)',
             cardTitle: 'Prehistory',
+            route: '/prehistory',
+            linkText: 'Prehistory',
             cardSubtitle: 'Human evolution, early human societies, Neolithic Revolution',
             cardDetailedText: (
                 <div>
@@ -49,6 +55,8 @@ const History = () => {
         },
         {
             title: 'Ancient History (3000 BCE - 500 CE)',
+            route: '/ancienthistory',
+            linkText: 'AncientHistory',
             cardTitle: 'Title: Ancient History: The Foundation of Human Civilization',
             cardSubtitle: 'Sumerians, Egyptians, Indus Valley Civilization, Bronze Age',
             cardDetailedText: (
@@ -130,7 +138,7 @@ const History = () => {
                     url: 'https://www.artyfactory.com/art_appreciation/art_movements/italian-renaissance/italian-renaissance/school-of-athens.jpg',
                 },
             },
-            
+
         },
         {
             title: 'Early Modern Period (1500 CE - 1800 CE)',
@@ -242,16 +250,17 @@ const History = () => {
             </div>
         ),
     }));
-    const itemsWithFontColorsAndTitleStyles = itemsWithResizableText.map((item) => ({
+    const itemsWithFontColorsAndTitleStyles = itemsWithResizableText.map((item, index) => ({
         ...item,
         title: (
             <span
                 style={{
-                    color: item === currentItem ? '#415d51' : '#203530',
+                    color: index === currentItem ? '#415d51' : '#203530',
                     fontSize: '1.8rem' // add this line to set the font size
                 }}
+            //line below currently links title to homepage, eventually link to new history page
             >
-                {item.title}
+                <Link to={item.route} style={{ textDecoration: 'none', color: 'inherit' }}>{item.title}</Link>
             </span>
         ),
         cardTitle: <span style={{ color: '#5a5a5a', padding: '0px' }}>{item.cardTitle}</span>,
@@ -286,6 +295,9 @@ const History = () => {
                     />
                 </div>
             </div>
+
+
+            
         </>
     );
 };

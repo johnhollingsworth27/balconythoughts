@@ -21,11 +21,11 @@ const Footer = () => {
                             <span className="socicon-facebook socicon mbr-iconfont mbr-iconfont-social"></span>
                         </a>
                     </div><div className="soc-item">
-                        <a href="https://www.youtube.com/c/mobirise" target="_blank" rel="noreferrer">
+                        <a href="https://www.youtube.com" target="_blank" rel="noreferrer">
                             <span className="socicon-youtube socicon mbr-iconfont mbr-iconfont-social"></span>
                         </a>
                     </div><div className="soc-item">
-                        <a href="https://instagram.com/mobirise" target="_blank" rel="noreferrer">
+                        <a href="https://instagram.com" target="_blank" rel="noreferrer">
                             <span className="mbr-iconfont mbr-iconfont-social socicon-instagram socicon"></span>
                         </a>
                     </div></div>

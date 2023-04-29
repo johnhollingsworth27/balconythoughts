@@ -1,0 +1,13 @@
+.timeline__item--active .timeline__dot::before {
+    background-color: red !important;
+  }
+  
+  .react-chrono .timeline__bar::before {
+    background-color: green !important;
+  }
+  
+  .react-chrono .timeline__dot::before {
+    background-color: green !important;
+    border-color: green !important;
+  }
+  

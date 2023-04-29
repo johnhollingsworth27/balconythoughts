@@ -75,6 +75,7 @@ function Navbar() {
                 <div className="dropdown-menu">
                   <a className="dropdown-item" href="https://www.goodreads.com" target="_blank">Books</a>
                   <a className="dropdown-item" href="https://www.chess.com" target="_blank">Chess</a>
+                  <Link className="dropdown-item" to="/history">History</Link>
                   <Link className="dropdown-item" to="/houseplants">Houseplants</Link>
                   <Link className="dropdown-item" to="/philosophy">Philosophy</Link>
 

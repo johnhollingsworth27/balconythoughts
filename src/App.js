@@ -10,6 +10,8 @@ import Houseplants from './components/houseplants';
 import Career from './components/career';
 import Gallery from './components/gallery';
 import Philosophy from './components/philosophy';
+import History from './components/history';
+
 
 
 
@@ -28,6 +30,7 @@ function App() {
           <Route path="/career" element={<Career />} />
           <Route path="/philosophy" element={<Philosophy />} />
           <Route path="/gallery" element={<Gallery />} />
+          <Route path="/history" element={<History />} />
 
         </Routes>
         <Footer />

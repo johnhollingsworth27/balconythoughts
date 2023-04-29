@@ -6745,8 +6745,9 @@ a {
   }
 }
 .cid-s48P1Icc8J {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  
   background-color: #203530;
 }
 .cid-s48P1Icc8J .row-links {
@@ -6761,6 +6762,10 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  margin-bottom: -1rem; /* add this line to reduce the bottom margin */
+  margin-top: -2rem; 
+
+
 }
 .cid-s48P1Icc8J .media-container-row .foot-menu {
   list-style: none;

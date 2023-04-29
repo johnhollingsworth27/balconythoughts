@@ -5,8 +5,7 @@ import '../styles/bootstrap-reboot.min.css';
 import Navbar from './navbar';
 import Header from './header';
 import GitHubCalendar from "react-github-calendar";
-import GriffithPlayer from './griffithvideo';
-import History from './history';
+
 
 
 
@@ -68,17 +67,6 @@ const Home = () => {
       <div className="calendar-container">
         <GitHubCalendar username="johnhollingsworth27" />
       </div>
-
-      
-
-      
-      <div>
-      <h1 style={h1Style}>Griffith Player Example</h1>
-      <GriffithPlayer />
-    </div>
-
-
-
     </div>
   );
 };

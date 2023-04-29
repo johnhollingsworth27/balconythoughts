@@ -9,7 +9,7 @@ function Navbar() {
           <div className="navbar-brand">
             <span className="navbar-logo">
               <a href="/">
-                <img src="assets/images/mbr-84x119.png" alt="Mobirise Website Builder" style={{ height: "3.8rem" }} />
+                <img src="assets/images/mbr-121x161.png" alt="Mobirise Website Builder" style={{ height: "3.8rem" }} />
               </a>
             </span>
             <span className="navbar-caption-wrap">
@@ -110,11 +110,14 @@ function Navbar() {
               <a className="iconfont-wrapper" href="https://www.instagram.com/" target="_blank">
                 <span className="p-2 mbr-iconfont socicon-instagram socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
               </a>
+              <a className="iconfont-wrapper" href="https://www.pinterest.com/" target="_blank">
+                <span className="p-2 mbr-iconfont socicon-pinterest socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
+              </a>
             </div>
 
 
 
-
+            
 
           </div>
         </div>

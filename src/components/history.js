@@ -50,7 +50,7 @@ const History = () => {
         {
             title: 'Ancient History (3000 BCE - 500 CE)',
             cardTitle: 'Title: Ancient History: The Foundation of Human Civilization',
-            cardSubtitle: 'Sumerians, Egyptians, Indus Valley Civilization, Bronze Age, Classical Antiquity',
+            cardSubtitle: 'Sumerians, Egyptians, Indus Valley Civilization, Bronze Age',
             cardDetailedText: (
                 <div>
                     Sumerians, Egyptians, and Indus Valley Civilization as early cradles of human civilization. <br /><br />
@@ -92,7 +92,7 @@ const History = () => {
         {
             title: 'Postclassical History (500 CE - 1500 CE)',
             cardTitle: 'Postclassical History',
-            cardSubtitle: 'Byzantine and Islamic empires, Middle Ages, Mongol Empire, Renaissance',
+            cardSubtitle: 'Byzantine & Islamic empires, Middle Ages, Mongol Empire, Renaissance',
             cardDetailedText: (
                 <div>
                     The emergence of the Byzantine and Islamic empires, which preserved and expanded upon classical knowledge and culture. <br /><br />
@@ -248,13 +248,14 @@ const History = () => {
             <span
                 style={{
                     color: item === currentItem ? '#415d51' : '#203530',
+                    fontSize: '1.8rem' // add this line to set the font size
                 }}
             >
                 {item.title}
             </span>
         ),
-        cardTitle: <span style={{ color: '#5a5a5a' }}>{item.cardTitle}</span>,
-        cardSubtitle: <span style={{ color: '#7a7a7a' }}>{item.cardSubtitle}</span>,
+        cardTitle: <span style={{ color: '#5a5a5a', padding: '0px' }}>{item.cardTitle}</span>,
+        cardSubtitle: <span style={{ color: '#7a7a7a', padding: '15px' }}>{item.cardSubtitle}</span>,
     }));
 
     const customTheme = {
@@ -276,7 +277,7 @@ const History = () => {
                 </div>
             </div>
             <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '150vh', backgroundColor: '#D4D0D0' }}>
-                <div style={{ width: '1200px', minHeight: '1000px' }}>
+                <div style={{ width: '1370px', minHeight: '1000px' }}>
                     <Chrono
                         items={itemsWithFontColorsAndTitleStyles}
                         mode="VERTICAL_ALTERNATING"

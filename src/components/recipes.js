@@ -71,12 +71,11 @@ const Recipes = () => {
                         </div>
                     </div>
                 </div>
-
-
-
-
-
             </section>
+
+
+
+            
             <section data-bs-version="5.1" className="tabs content18 cid-tA1mGgMObg" id="tabs1-1a">
                 <div className="mbr-overlay" style={{ opacity: 0.6, backgroundColor: "rgb(255, 255, 255)" }}>
                 </div>

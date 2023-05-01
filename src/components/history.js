@@ -1,10 +1,6 @@
 import React, { useState } from 'react';
 import { Chrono } from 'react-chrono';
 import { Link } from 'react-router-dom';
-import GriffithPlayer from './griffithvideo';
-
-
-
 
 const History = () => {
     const items = [

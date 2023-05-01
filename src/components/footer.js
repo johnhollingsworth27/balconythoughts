@@ -9,36 +9,49 @@ const Footer = () => {
             <div className="row" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
               <div className="social-list align-right pb-2">
                 <div class="soc-item">
-                  <a href="https://twitter.com/mobirise" target="_blank">
-                    <span class="socicon-twitter socicon mbr-iconfont mbr-iconfont-social"></span>
+
+                  <a className="iconfont-wrapper" href="https://twitter.com/home" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-twitter socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
-                </div><div class="soc-item">
-                  <a href="http://www.linkedin.com/john-hollingsworth" target="_blank">
-                    <span class="mbr-iconfont mbr-iconfont-social socicon-linkedin socicon"></span>
+                  <a className="iconfont-wrapper" href="https://www.instagram.com/" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-instagram socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
-                </div><div class="soc-item">
-                  <a href="https://www.youtube.com/c/mobirise" target="_blank">
-                    <span class="socicon-youtube socicon mbr-iconfont mbr-iconfont-social"></span>
+                  <a className="iconfont-wrapper" href="https://www.pinterest.com/" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-pinterest socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
-                </div><div class="soc-item">
-                  <a href="https://instagram.com/mobirise" target="_blank">
-                    <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon"></span>
+                  <a className="iconfont-wrapper" href="https://tiktok.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-tiktok socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
-                </div><div class="soc-item">
-                  <a href="https://pinterest.com" target="_blank">
-                    <span class="mbr-iconfont mbr-iconfont-social socicon-pinterest socicon"></span>
+                  <a className="iconfont-wrapper" href="https://reddit.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-reddit socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
-                </div><div class="soc-item">
-                  <a href="https://googlecalendar.com" target="_blank">
-                    <span class="mbr-iconfont mbr-iconfont-social socicon-googlecalendar socicon"></span>
+                  <a className="iconfont-wrapper" href="https://youtube.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-youtube socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
-                </div><div class="soc-item">
-                  <a href="https://amazon.com" target="_blank">
-                    <span class="mbr-iconfont mbr-iconfont-social socicon-amazon socicon"></span>
+                  <a className="iconfont-wrapper" href="https://etsy.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-etsy socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
-                </div><div class="soc-item">
-                  <a href="https://spotify.com" target="_blank">
-                    <span class="mbr-iconfont mbr-iconfont-social socicon-spotify socicon"></span>
+                  <a className="iconfont-wrapper" href="http://www.github.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-github socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
+                  </a>
+                  
+                  <a className="iconfont-wrapper" href="https://apple.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-apple socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
+                  </a>
+                  <a className="iconfont-wrapper" href="https://outlook.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-outlook socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
+                  </a>
+                  <a className="iconfont-wrapper" href="https://gmail.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-mail socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
+                  </a>
+                  <a className="iconfont-wrapper" href="https://goodreads.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-goodreads socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
+                  </a>
+                  <a className="iconfont-wrapper" href="https://soundcloud.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-soundcloud socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
+                  </a>
+                  <a className="iconfont-wrapper" href="https://spotify.com" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-spotify socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
                 </div></div>
             </div>

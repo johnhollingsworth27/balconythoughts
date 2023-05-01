@@ -101,23 +101,13 @@ function Navbar() {
               </li>
             </ul>
             <div className="icons-menu">
-              <a className="iconfont-wrapper" href="https://www.tiktok.com/en/" target="_blank">
-                <span className="p-2 mbr-iconfont mobi-mbri-clock mobi-mbri" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
-              </a>
-              <a className="iconfont-wrapper" href="https://twitter.com/home" target="_blank">
-                <span className="p-2 mbr-iconfont socicon-twitter socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
-              </a>
-              <a className="iconfont-wrapper" href="https://www.instagram.com/" target="_blank">
-                <span className="p-2 mbr-iconfont socicon-instagram socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
-              </a>
-              <a className="iconfont-wrapper" href="https://www.pinterest.com/" target="_blank">
-                <span className="p-2 mbr-iconfont socicon-pinterest socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "18px" }}></span>
-              </a>
+              
+
             </div>
 
 
 
-            
+
 
           </div>
         </div>

@@ -19,12 +19,13 @@ const Career = () => {
                 </div>
             </section>
 
-            <section data-bs-version="5.1" className="content14 cid-tq4oVn6DTN" id="content14-1m">
+            <section data-bs-version="5.1" className="content14 cid-tq4oVn6DTN custom-section-2" id="content14-1m">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-md-12 col-lg-10">
                             <h3 className="mbr-section-title mbr-fonts-style mb-4 display-5">
-                                __________________________________________________________________________________________
+                                _________________________________________________________________________________________
+                                <br />
                                 <br />
                                 <strong>Identity and Access Management Contractor </strong>| Vanguard
                             </h3>
@@ -37,15 +38,15 @@ const Career = () => {
                 </div>
             </section>
 
-            <section data-bs-version="5.1" className="content14 cid-tq4pAtwrlQ" id="content14-1o">
+            <section data-bs-version="5.1" className="content14 cid-tq4pAtwrlQ custom-section-3" id="content14-1o">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-md-12 col-lg-10">
                             <h3 className="mbr-section-title mbr-fonts-style mb-4 display-5">
                                 <strong>Risk and Security Intern</strong> | Vanguard &nbsp; &nbsp;
                                 <strong>
-                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                                     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                                 </strong>
                             </h3>
@@ -72,13 +73,14 @@ const Career = () => {
                 </div>
             </section>
 
-
-            <section data-bs-version="5.1" className="content14 cid-tq4pBnqXs5" id="content14-1p">
+            <section data-bs-version="5.1" className="content14 cid-tq4pBnqXs5 custom-section-4" id="content14-1p">
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-md-12 col-lg-10">
                             <h3 className="mbr-section-title mbr-fonts-style mb-4 display-5">
-                                __________________________________________________________________________________________
+                                _________________________________________________________________________________________
+                                <br />
+                                <br />
                                 <div>
                                     <strong>IT Service Desk Support Specialist</strong> | Pennsylvania State University&nbsp;
                                     <br />
@@ -96,7 +98,6 @@ const Career = () => {
                     </div>
                 </div>
             </section>
-
 
             <section data-bs-version="5.1" className="content6 cid-tq4oWmRlRY" id="content6-1n">
                 <div className="container">
@@ -121,6 +122,7 @@ const Career = () => {
                 </div>
             </section>
 
+
             <section data-bs-version="5.1" className="image4 cid-tq4tGcfoCN" id="image4-1s">
                 <div className="mbr-overlay" style={{ opacity: 0.7, backgroundColor: 'rgb(255, 255, 255)' }} />
                 <div className="container">
@@ -138,7 +140,7 @@ const Career = () => {
                     </div>
                 </div>
             </section>
-            
+
 
 
 

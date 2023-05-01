@@ -15,11 +15,6 @@ import Prehistory from './components/prehistory';
 import AncientHistory from './components/ancienthistory';
 
 
-
-
-
-
-
 function App() {
   return (
     <Router>
@@ -37,8 +32,6 @@ function App() {
           <Route path="/history" element={<History />} />
           <Route path="/prehistory" element={<Prehistory />} />
           <Route path="/ancienthistory" element={<AncientHistory />} />
-
-
         </Routes>
         <Footer />
         <div id="content"></div>

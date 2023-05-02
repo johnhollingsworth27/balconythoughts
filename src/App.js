@@ -3,7 +3,7 @@ import Navbar from './components/navbar';
 import Home from './components/home';
 import Footer from './components/footer';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import AcademicsPage from './pages/AcademicsPage';
+import AcademicsPage from './pages/academicsPage';
 import JournalEntryPage from './pages/JournalEntryPage';
 import Recipes from './components/recipes';
 import Houseplants from './components/houseplants';

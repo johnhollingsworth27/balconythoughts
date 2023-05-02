@@ -23,7 +23,7 @@
     "griffith": "^1.30.0",
     "immer": "^10.0.1",
     "jquery": "^3.6.4",
-    "mysql2": "^3.2.0",
+    "mysql2": "^3.2.4",
     "react": "^18.2.0",
     "react-beautiful-dnd": "^13.1.1",
     "react-calendar-timeline": "^0.28.0",

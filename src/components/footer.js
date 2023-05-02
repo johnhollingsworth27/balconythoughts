@@ -44,6 +44,9 @@ const Footer = () => {
                   <a className="iconfont-wrapper" href="https://wikipedia.com" target="_blank">
                     <span className="p-2 mbr-iconfont socicon-wikipedia socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>
+                  <a className="iconfont-wrapper" href="https://calendar.google.com/calendar/u/0/r" target="_blank">
+                    <span className="p-2 mbr-iconfont socicon-googlecalendar socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
+                  </a>
                   <a className="iconfont-wrapper" href="https://outlook.com" target="_blank">
                     <span className="p-2 mbr-iconfont socicon-outlook socicon" style={{ color: "rgb(170, 112, 126)", fill: "rgb(170, 112, 126)", fontSize: "20px" }}></span>
                   </a>

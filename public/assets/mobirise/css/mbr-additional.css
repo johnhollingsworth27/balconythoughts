@@ -2213,6 +2213,74 @@ a {
     text-align: center;
   }
 }
+
+
+
+
+
+
+.cid-tA2E9yc2OJ2 {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/horiz.webp");
+}
+.cid-tA2E9yc2OJ2 .mbr-section-title {
+  text-align: center;
+  color: #203530;
+  font-size: 4rem; /* Adjust the font size */
+  
+}
+.cid-tA2E9yc2OJ2 .mbr-text,
+.cid-tA2E9yc2OJ2 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tA2E9yc2OJ2 .mbr-section-title,
+  .cid-tA2E9yc2OJ2 .mbr-section-btn,
+  .cid-tA2E9yc2OJ2 .mbr-text {
+    text-align: center;
+  }
+}
+
+
+
+
+
+
+.cid-tA2E9yc2OJ23 {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/macbalcony.png");
+}
+.cid-tA2E9yc2OJ23 .mbr-section-title {
+  text-align: center;
+  color: #203530;
+  font-size: 3.5rem; /* Adjust the font size */
+  margin-left: 0rem;
+  margin-right: 0rem;
+
+
+  
+}
+.cid-tA2E9yc2OJ23 .mbr-text,
+.cid-tA2E9yc2OJ23 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tA2E9yc2OJ23 .mbr-section-title,
+  .cid-tA2E9yc2OJ23 .mbr-section-btn,
+  .cid-tA2E9yc2OJ23 .mbr-text {
+    text-align: center;
+  }
+}
+
+
+
+
+
+
 .cid-tq4oVn6DTN {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -6107,6 +6175,41 @@ a {
 }
 
 
+
+
+.cid-tA2rnsadC24 {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #203530;
+ 
+}
+.cid-tA2rnsadC24 blockquote {
+  border-color: #d4d0d0;
+  border-radius: 8px;
+  background-color: #415d51;
+  width: 120%; /* Adjust the width */
+  margin-left: -10%; /* Center the element horizontally */
+
+
+  
+}
+.cid-tA2rnsadC24 .mbr-section-title {
+  color: #203530;
+  text-align: left;
+  font-size: 1.5rem;
+}
+.cid-tA2rnsadC24 .mbr-text {
+  color: #d4d0d0;
+}
+
+
+
+
+
+
+
+
+
 /* yoga this */
 .yoga {
   padding-top: 130vh; /* Adjust to fit screen */
@@ -6426,6 +6529,33 @@ a {
   .cid-s48MCQYojq .mbr-section-title,
   .cid-s48MCQYojq .mbr-section-btn,
   .cid-s48MCQYojq .mbr-text {
+    text-align: center;
+  }
+}
+
+
+
+
+
+/* This is mac picture on homepage*/
+.cid-s48MCQYojq2 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/macbalcony.png");
+}
+.cid-s48MCQYojq2 .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.cid-s48MCQYojq2 .mbr-text,
+.cid-s48MCQYojq2 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-s48MCQYojq2 .mbr-section-title,
+  .cid-s48MCQYojq2 .mbr-section-btn,
+  .cid-s48MCQYojq2 .mbr-text {
     text-align: center;
   }
 }
@@ -6920,3 +7050,52 @@ a {
 }
 
 
+
+
+
+
+
+
+
+
+.cid-tD5Swic03m {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #d4d0d0;
+  
+}
+.cid-tD5Swic03m .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tD5Swic03m .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  
+
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-tD5Swic03m .image-wrapper {
+    margin-bottom: 0rem;    margin-top: 0rem;
+    
+
+  }
+}
+.cid-tD5Swic03m img {
+  width: 100%;
+  
+}
+@media (min-width: 992px) {
+  .cid-tD5Swic03m .text-wrapper {
+    padding: 0rem;
+    
+  }
+}
+/* Change the font color to black */
+.cid-tD5Swic03m p, .cid-tD5Swic03m span, .cid-tD5Swic03m h1, .cid-tD5Swic03m h2, .cid-tD5Swic03m h3, .cid-tD5Swic03m h4, .cid-tD5Swic03m h5, .cid-tD5Swic03m h6 {
+  color: #203530;
+}

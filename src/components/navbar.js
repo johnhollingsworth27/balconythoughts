@@ -77,7 +77,9 @@ function Navbar() {
                   <a className="dropdown-item" href="https://www.chess.com" target="_blank">Chess</a>
                   <Link className="dropdown-item" to="/history">History</Link>
                   <Link className="dropdown-item" to="/houseplants">Houseplants</Link>
+                  <Link className="dropdown-item" to="/mac">Mac Miller</Link>
                   <Link className="dropdown-item" to="/philosophy">Philosophy</Link>
+
 
 
 
@@ -95,8 +97,10 @@ function Navbar() {
                   Tech
                 </a>
                 <div className="dropdown-menu">
-                  <a className="dropdown-item" href="https://chat.openai.com/" target="_blank">GPT</a>
                   <a className="dropdown-item" href="https://github.com/johnhollingsworth27" target="_blank">GitHub</a>
+                  <a className="dropdown-item" href="https://chat.openai.com/" target="_blank">GPT</a>
+                  <a className="dropdown-item" href="obsidian://" target="_blank">Obsidian</a>
+
                 </div>
               </li>
             </ul>

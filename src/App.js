@@ -13,6 +13,8 @@ import Philosophy from './components/philosophy';
 import History from './components/history';
 import Prehistory from './components/prehistory';
 import AncientHistory from './components/ancienthistory';
+import MacMiller from './components/mac';
+
 
 
 function App() {
@@ -32,6 +34,7 @@ function App() {
           <Route path="/history" element={<History />} />
           <Route path="/prehistory" element={<Prehistory />} />
           <Route path="/ancienthistory" element={<AncientHistory />} />
+          <Route path="/mac" element={<MacMiller />} />
         </Routes>
         <Footer />
         <div id="content"></div>

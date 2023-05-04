@@ -15,7 +15,7 @@ const Home = () => {
     marginRight: '1in',
   };
 
-  const text = 'balconythoughts';
+  const text = 'balconythoughtsss';
   const animatedText = text.split('').map((letter, index) => (
     <span key={index} className="animated-letter" style={{ animationDelay: `${index * 0.1}s` }}>
       <strong>{letter}</strong>

@@ -4,10 +4,10 @@ import Player from 'griffith';
 const GriffithPlayer = () => {
   const sources = {
     hd: {
-      play_url: 'https://zhstatic.zhihu.com/cfe/griffith/zhihu2018_hd.mp4',
+      play_url: 'https://www.youtube.com/watch?v=v99dsVBE4xQ',
     },
     sd: {
-      play_url: 'https://zhstatic.zhihu.com/cfe/griffith/zhihu2018_sd.mp4',
+      play_url: 'https://www.youtube.com/watch?v=v99dsVBE4xQ',
     },
   };
 

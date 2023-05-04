@@ -2244,6 +2244,34 @@ a {
     text-align: center;
   }
 }
+
+
+.cid-tA2E9yc2OJ26 {
+  padding-top: 5rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/mathy4.png");
+}
+.cid-tA2E9yc2OJ26 .mbr-section-title {
+  text-align: center;
+  color: #203530;
+  font-size: 4rem; /* Adjust the font size */
+  
+}
+.cid-tA2E9yc2OJ26 .mbr-text,
+.cid-tA2E9yc2OJ2 .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tA2E9yc2OJ26 .mbr-section-title,
+  .cid-tA2E9yc2OJ26 .mbr-section-btn,
+  .cid-tA2E9yc2OJ26 .mbr-text {
+    text-align: center;
+  }
+}
+
+
+
 .animated-letter {
   display: inline-block;
   animation-name: fadeIn;
@@ -6222,6 +6250,30 @@ a {
   color: #d4d0d0;
 }
 
+
+.cid-tA2rnsadC2455 {
+  margin-top: 0rem;
+  background-image: url("../../../assets//images/hilbert.jpeg");
+ 
+}
+.cid-tA2rnsadC2455 blockquote {
+  border-color: #d4d0d0;
+  border-radius: 8px;
+  background-color: #415d51;
+  width: 120%; /* Adjust the width */
+  margin-left: -10%; /* Center the element horizontally */
+
+
+  
+}
+.cid-tA2rnsadC2455 .mbr-section-title {
+  color: #203530;
+  text-align: left;
+  font-size: 1.5rem;
+}
+.cid-tA2rnsadC2455 .mbr-text {
+  color: #d4d0d0;
+}
 
 
 

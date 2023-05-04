@@ -14,6 +14,8 @@ import History from './components/history';
 import Prehistory from './components/prehistory';
 import AncientHistory from './components/ancienthistory';
 import MacMiller from './components/mac';
+import Fractals from './components/mathematics';
+
 
 
 
@@ -35,6 +37,7 @@ function App() {
           <Route path="/prehistory" element={<Prehistory />} />
           <Route path="/ancienthistory" element={<AncientHistory />} />
           <Route path="/mac" element={<MacMiller />} />
+          <Route path="/mathematics" element={<Fractals />} />
         </Routes>
         <Footer />
         <div id="content"></div>

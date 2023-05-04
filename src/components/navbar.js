@@ -78,6 +78,7 @@ function Navbar() {
                   <Link className="dropdown-item" to="/history">History</Link>
                   <Link className="dropdown-item" to="/houseplants">Houseplants</Link>
                   <Link className="dropdown-item" to="/mac">Mac Miller</Link>
+                  <Link className="dropdown-item" to="/mathematics">Mathematics</Link>
                   <Link className="dropdown-item" to="/philosophy">Philosophy</Link>
 
 

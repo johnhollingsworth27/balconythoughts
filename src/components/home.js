@@ -3,9 +3,10 @@ import '../styles/style.css';
 import '../styles/bootstrap-grid.min.css';
 import '../styles/bootstrap-reboot.min.css';
 import Navbar from './navbar';
-import Header from './header';
 import GitHubCalendar from "react-github-calendar";
 import Taskboard from './taskboard';
+
+
 
 const Home = () => {
 
@@ -75,6 +76,7 @@ const Home = () => {
 
       </div>
       <Taskboard />
+
 
 
     </div>

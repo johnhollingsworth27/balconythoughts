@@ -1,6 +1,8 @@
 body {
   font-family: Jost;
 }
+
+
 .display-1 {
   font-family: 'Jost', sans-serif;
   font-size: 3.8rem;
@@ -2240,6 +2242,24 @@ a {
   .cid-tA2E9yc2OJ2 .mbr-section-btn,
   .cid-tA2E9yc2OJ2 .mbr-text {
     text-align: center;
+  }
+}
+.animated-letter {
+  display: inline-block;
+  animation-name: fadeIn;
+  animation-duration: 0.5s;
+  animation-fill-mode: both;
+  opacity: 0;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 

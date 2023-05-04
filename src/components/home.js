@@ -14,25 +14,31 @@ const Home = () => {
     marginRight: '1in',
   };
 
+  const text = 'balconythoughts';
+  const animatedText = text.split('').map((letter, index) => (
+    <span key={index} className="animated-letter" style={{ animationDelay: `${index * 0.1}s` }}>
+      <strong>{letter}</strong>
+    </span>
+  ));
+
   return (
     <div>
       <Navbar />
-
       <section data-bs-version="5.1" className="header1 cid-tA2E9yc2OJ2" id="header1-2p">
-                <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+      <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(255, 255, 255)' }}></div>
 
-                <div className="align-center container">
-                    <div className="row justify-content-center">
-                        <div className="col-12 col-lg-9">
-                            <h1 className="mbr-section-title mbr-fonts-style mb-3 display-1">
-                                <strong>balconythoughts</strong>
-                            </h1>
-                        </div>
-                    </div>
-                </div>
-            </section>
-      
-      
+      <div className="align-center container">
+        <div className="row justify-content-center">
+          <div className="col-12 col-lg-9">
+            <h1 className="mbr-section-title mbr-fonts-style mb-3 display-1">
+              {animatedText}
+            </h1>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
 
 
       <section data-bs-version="5.1" className="content7 cid-tA2rnsadC2" id="content7-2l">
@@ -66,16 +72,14 @@ const Home = () => {
 
       <div className="calendar-container">
         <GitHubCalendar username="johnhollingsworth27" />
-        
+
       </div>
       <Taskboard />
-
-      
 
 
     </div>
 
-    
+
   );
 };
 

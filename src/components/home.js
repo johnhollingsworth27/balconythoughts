@@ -26,7 +26,7 @@ const Home = () => {
     <div>
       <Navbar />
       <section data-bs-version="5.1" className="header1 cid-tA2E9yc2OJ2" id="header1-2p">
-      <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+      <div className="mbr-overlay" style={{opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
 
       <div className="align-center container">
         <div className="row justify-content-center">
@@ -70,12 +70,12 @@ const Home = () => {
 
       <section className="display-7" style={{ padding: 0, alignItems: 'center', justifyContent: 'center', flexWrap: 'wrap', alignContent: 'center', display: 'flex', position: 'relative', height: '0rem' }}>
       </section>
-
+      <Taskboard />
       <div className="calendar-container">
         <GitHubCalendar username="johnhollingsworth27" />
 
       </div>
-      <Taskboard />
+      
 
 
 

@@ -89,7 +89,7 @@ const TaskBoard = () => {
           color: "#d4d0d0",
           display: "flex",
           justifyContent: "center",
-          backgroundColor: "#aa707e",
+          backgroundColor: "#352025",
           minHeight: "50vh",
           padding: "2rem",
         }}
@@ -99,7 +99,7 @@ const TaskBoard = () => {
             {(provided) => (
               <div
                 style={{
-                  backgroundColor: "#581922",
+                  backgroundColor: "#5d414c",
                   margin: "1rem",
                   padding: "1rem",
                   border: "1px solid #ccc",

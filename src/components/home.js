@@ -75,7 +75,6 @@ const Home = () => {
         <GitHubCalendar username="johnhollingsworth27" />
 
       </div>
-      
 
 
 

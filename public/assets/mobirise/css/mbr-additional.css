@@ -6488,13 +6488,38 @@ a {
 
 
 
+/* GALLERY5 this */
+.galleryw {
+  padding-top: 10rem;
+  padding-bottom: 14rem;
+  background-image: url("../../../assets/images/will.png ");
+}
+.galleryw .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.galleryw .mbr-text,
+.galleryw .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .galleryw .mbr-section-title,
+  .galleryw .mbr-section-btn,
+  .galleryw .mbr-text {
+    text-align: center;
+  }
+}
+
+
+
 
 
 /* GALLERY6 this */
 .gallery6 {
   padding-top: 15rem;
   padding-bottom: 14rem;
-  background-image: url("../../../assets/images/IMG_4252.png ");
+  background-image: url("../../../assets/images/beach.png ");
 }
 .gallery6 .mbr-section-title {
   text-align: center;

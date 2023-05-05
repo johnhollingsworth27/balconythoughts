@@ -205,7 +205,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/macadelicalbum.jpeg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/macadelicalbum.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     March 23, 2012</p>
                             </div>
@@ -247,7 +247,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/img_0236.png" alt="Mobirise Website Builder" />
+                                <img src="assets/images/IMG_0236.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     March 4, 2013</p>
                             </div>
@@ -268,7 +268,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/wmwtso.webp" alt="Mobirise Website Builder" />
+                                <img src="assets/images/wmwtso.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     June 18, 2013</p>
                             </div>
@@ -310,7 +310,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/img_0231.jpg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/IMG_0231.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     December 17, 2013</p>
                             </div>
@@ -352,7 +352,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/img_0237.png" alt="Mobirise Website Builder" />
+                                <img src="assets/images/IMG_0237.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     December 29, 2015</p>
                             </div>
@@ -415,7 +415,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/img_0232.jpg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/IMG_0232.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     August 3, 2018</p>
                             </div>
@@ -436,7 +436,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/img_0233.jpg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/IMG_0233.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">January 17, 2020</p>
                             </div>
                         </div>

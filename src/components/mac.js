@@ -43,7 +43,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/highlife.jpeg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/highlife.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     December 16, 2009</p>
                             </div>
@@ -82,7 +82,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/kidsalbum.jpeg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/kidsalbum.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     August 13, 2010</p>
                             </div>
@@ -247,7 +247,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/img_0236.jpg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/img_0236.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     March 4, 2013</p>
                             </div>
@@ -332,7 +332,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/faces.webp" alt="Mobirise Website Builder" />
+                                <img src="assets/images/faces.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     May 11, 2014</p>
                             </div>
@@ -352,7 +352,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/img_0237.jpg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/img_0237.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     December 29, 2015</p>
                             </div>

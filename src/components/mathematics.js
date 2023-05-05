@@ -110,7 +110,7 @@ const Fractals = () => {
             </section>
 
             <section data-bs-version="5.1" className="content7 cid-tA2rnsadC2455" id="content7-2l">
-                <div className="mbr-overlay" style={{ opacity: 0.1, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+                <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
                 <div className="container">
                     <div className="row justify-content-center">
                         <div className="col-12 col-md-10">

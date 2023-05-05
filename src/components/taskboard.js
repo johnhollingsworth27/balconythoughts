@@ -7,7 +7,7 @@ const initialTasks = [
   { id: "task-2", title: "Career", description: "Apply for a new job", status: "to-do" },
   { id: "task-3", title: "Philosophy", description: "Eras, quotes", status: "doing" },
   { id: "task-5", title: "Mac Miller", description: "Tribute, art", status: "doing" },
-  { id: "task-4", title: "History", description: "Main, prehistoric, ancient", status: "done" },
+  { id: "task-4", title: "History", description: "Prehistoric, ancient", status: "done" },
   { id: "task-7", title: "Houseplants", description: "Basic", status: "done" },
 
 ];

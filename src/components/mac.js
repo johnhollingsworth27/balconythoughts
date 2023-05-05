@@ -4,7 +4,7 @@ import React from 'react';
 function MacMiller() {
     return (
         <>
-        <section data-bs-version="5.1" className="header1 cid-tA2E9yc2OJ23" id="header1-2p">
+            <section data-bs-version="5.1" className="header1 cid-tA2E9yc2OJ23" id="header1-2p">
                 <div className="mbr-overlay" style={{ opacity: 0.3, backgroundColor: 'rgb(255, 255, 255)' }}></div>
 
                 <div className="align-center container">
@@ -450,6 +450,16 @@ function MacMiller() {
                     </div >
                 </div >
             </section >
+
+            <section data-bs-version="5.1" className="header1 mactribute" id="header1-f">
+                <div className="mbr-overlay" style={{ opacity: 0.0, backgroundColor: 'rgb(255, 255, 255)' }}></div>
+                <div className="align-center container">
+                    <div className="row justify-content-center">
+                        <div className="col-12 col-lg-9">
+                        </div>
+                    </div>
+                </div>
+            </section>
         </>
     );
 }

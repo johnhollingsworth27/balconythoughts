@@ -6253,13 +6253,15 @@ a {
 
 .cid-tA2rnsadC2455 {
   margin-top: 0rem;
-  background-image: url("../../../assets//images/hilbert.jpeg");
+  background-image: url("../../../assets//images/hilbertcurve5.png ");
+  background-color: #2a3d38;
+
  
 }
 .cid-tA2rnsadC2455 blockquote {
   border-color: #d4d0d0;
   border-radius: 8px;
-  background-color: #415d51;
+  background-color: #63726e;
   width: 120%; /* Adjust the width */
   margin-left: -10%; /* Center the element horizontally */
 
@@ -6267,7 +6269,7 @@ a {
   
 }
 .cid-tA2rnsadC2455 .mbr-section-title {
-  color: #203530;
+  color: #d4d0d0;
   text-align: left;
   font-size: 1.5rem;
 }
@@ -6498,6 +6500,28 @@ a {
 }
 
 
+/* mac tribute this */
+.mactribute {
+  padding-top: 10rem;
+  padding-bottom: 14rem;
+  background-image: url("../../../assets/images/mac.png");
+}
+.mactribute .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.mactribute .mbr-text,
+.mactribute .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .mactribute .mbr-section-title,
+  .mactribute .mbr-section-btn,
+  .mactribute .mbr-text {
+    text-align: center;
+  }
+}
 
 
 

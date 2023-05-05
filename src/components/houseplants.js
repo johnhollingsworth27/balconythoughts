@@ -7,18 +7,6 @@ import '../styles/bootstrap-reboot.min.css';
 const Houseplants = () => {
     return (
         <>
-            <section data-bs-version="5.1" className="header1 cid-tAqwxP4oCQ" id="header1-39">
-                <div className="mbr-overlay" style={{ opacity: 0.4, backgroundColor: 'rgb(255, 255, 255)' }}></div>
-                <div className="align-center container">
-                    <div className="row justify-content-center">
-                        <div className="col-12 col-lg-9">
-                            <h1 className="mbr-section-title mbr-fonts-style mb-3 display-1">
-                                <strong>houseplants</strong>
-                            </h1>
-                        </div>
-                    </div>
-                </div>
-            </section>
 
             <section data-bs-version="5.1" className="gallery3 cid-tAqwYuuppN" id="gallery3-3f">
                 <div className="container">
@@ -158,7 +146,7 @@ const Houseplants = () => {
                         <div className="item features-image сol-12 col-md-6 col-lg-4">
                             <div className="item-wrapper">
                                 <div className="item-img">
-                                    <img src="assets/images/img-132-816x1088.jpeg" alt="Mobirise Website Builder" />
+                                    <img src="assets/images/fiddle.png" alt="Mobirise Website Builder" />
                                 </div>
                                 <div className="item-content">
                                     <h5 className="item-title mbr-fonts-style display-7">

@@ -289,7 +289,7 @@ function MacMiller() {
                     <div className="row align-items-center">
                         <div className="col-12 col-lg-6">
                             <div className="image-wrapper">
-                                <img src="assets/images/img_0235.jpg" alt="Mobirise Website Builder" />
+                                <img src="assets/images/tom.png" alt="Mobirise Website Builder" />
                                 <p className="mbr-description mbr-fonts-style pt-2 align-center display-4">
                                     October 31, 2013</p>
                             </div>

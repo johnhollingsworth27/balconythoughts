@@ -3592,7 +3592,7 @@ a {
 .cid-tq3SMnQfaB {
   padding-top: 3rem;
   padding-bottom: 0rem;
-  background-image: url("../../../assets/images/new.jpeg");
+  background-image: url("../../../assets/images/new.png");
 }
 .cid-tq3SMnQfaB .mbr-fallback-image.disabled {
   display: none;
@@ -6344,7 +6344,7 @@ a {
 .gallery1 {
   padding-top: 18rem;
   padding-bottom: 18rem;
-  background-image: url("../../../assets/images/personal/brotherlaughnyc.jpeg");
+  background-image: url("../../../assets/images/personal/brotherlaughnyc.png");
   opacity: 0rem;
 }
 .gallery1 .mbr-section-title {
@@ -6371,7 +6371,7 @@ a {
 .gallery2 {
   padding-top: 20rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/IMG_2782.jpeg");
+  background-image: url("../../../assets/images/IMG_2782.png");
 }
 .gallery2 .mbr-section-title {
   text-align: center;
@@ -6394,7 +6394,7 @@ a {
 .galleryx {
   padding-top: 15rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/IMG_4059.JPG");
+  background-image: url("../../../assets/images/IMG_4059.png");
 }
 .galleryx .mbr-section-title {
   text-align: center;
@@ -6418,7 +6418,7 @@ a {
 .gallerycoc {
   padding-top: 25rem;
   padding-bottom: 10rem;
-  background-image: url("../../../assets/images/personal/cocktogon.JPG");
+  background-image: url("../../../assets/images/personal/cocktogon.png");
 }
 .gallerycoc .mbr-section-title {
   text-align: center;
@@ -6442,7 +6442,7 @@ a {
 .gallery4 {
   padding-top: 20rem;
   padding-bottom: 14rem;
-  background-image: url("../../../assets/images/personal/IMG_7226.jpeg");
+  background-image: url("../../../assets/images/personal/IMG_7226.png ");
 }
 .gallery4 .mbr-section-title {
   text-align: center;
@@ -6466,7 +6466,7 @@ a {
 .gallery5 {
   padding-top: 10rem;
   padding-bottom: 14rem;
-  background-image: url("../../../assets/images/IMG_5428.JPG");
+  background-image: url("../../../assets/images/IMG_5428.png");
 }
 .gallery5 .mbr-section-title {
   text-align: center;
@@ -6486,28 +6486,7 @@ a {
 }
 
 
-/* GALLERYcoCollage this */
-.gallerycoCollage {
-  padding-top: 60rem;
-  padding-bottom: 0rem;
-  background-image: url("../../../assets/images/COcollage.png");
-}
-.gallerycoCollage .mbr-section-title {
-  text-align: center;
-  color: #c6093b;
-}
-.gallerycoCollage .mbr-text,
-.gallerycoCollage .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .gallerycoCollage .mbr-section-title,
-  .gallerycoCollage .mbr-section-btn,
-  .gallerycoCollage .mbr-text {
-    text-align: center;
-  }
-}
+
 
 
 
@@ -6538,7 +6517,7 @@ a {
 .gallery7 {
   padding-top: 10rem;
   padding-bottom: 14rem;
-  background-image: url("../../../assets/images/IMG_7949.jpeg");
+  background-image: url("../../../assets/images/IMG_7949.png");
 }
 .gallery7 .mbr-section-title {
   text-align: center;
@@ -6562,7 +6541,7 @@ a {
 .gallerycliff {
   padding-top: 0rem;
   padding-bottom: 20rem;
-  background-image: url("../../../assets/images/IMG_4195.jpeg");
+  background-image: url("../../../assets/images/IMG_4195.png");
 }
 .gallerycliff .mbr-section-title {
   text-align: center;

@@ -6286,7 +6286,13 @@ a {
 .yoga {
   padding-top: 130vh; /* Adjust to fit screen */
   padding-bottom: 0vh; /* Adjust to fit screen */
-  background-image: url("../../../assets/images/yoga.jpg_large");
+  margin-left: 1in;
+  margin-right: 1in;
+
+  margin-top: 1in;
+  margin-bottom: 2in;
+
+  background-image: url("../../../assets/images/yoga.png");
   background-size: cover;
   background-position: center;
 }
@@ -6312,10 +6318,16 @@ a {
 
 /* dumbbell this */
 .dumbbell {
-  padding-top: 165vh; /* Adjust to fit screen */
-  padding-bottom: 0vh; /* Adjust to fit screen */
-  background-image: url("../../../assets/images/dumbbell.jpeg");
+
+  background-image: url("../../../assets/images/dumbbell.png");
   background-size: cover;
+  padding-top: 142vh; /* Adjust to fit screen */
+  padding-bottom: 0vh; /* Adjust to fit screen */
+  margin-left: 1in;
+  margin-right: 1in;
+
+  margin-top: 1in;
+  margin-bottom: 0.5in;
   background-position: center;
 }
 .dumbbell .mbr-section-title {
@@ -6486,30 +6498,6 @@ a {
 }
 
 
-
-
-/* GALLERY5 this */
-.galleryw {
-  padding-top: 10rem;
-  padding-bottom: 14rem;
-  background-image: url("../../../assets/images/will.png ");
-}
-.galleryw .mbr-section-title {
-  text-align: center;
-  color: #c6093b;
-}
-.galleryw .mbr-text,
-.galleryw .mbr-section-btn {
-  color: #ffffff;
-  text-align: center;
-}
-@media (max-width: 991px) {
-  .galleryw .mbr-section-title,
-  .galleryw .mbr-section-btn,
-  .galleryw .mbr-text {
-    text-align: center;
-  }
-}
 
 
 

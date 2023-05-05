@@ -2,10 +2,14 @@ import React, { useState, useEffect } from "react";
 import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
 
 const initialTasks = [
-  { id: "task-1", title: "Music", description: "Learn to play guitar", status: "to-do" },
+  { id: "task-1", title: "Music", description: "Major artists & genres", status: "to-do" },
+  { id: "task-6", title: "Art", description: "Hierarchy and history", status: "to-do" },
   { id: "task-2", title: "Career", description: "Apply for a new job", status: "to-do" },
-  { id: "task-3", title: "Philosophy", description: "Read 'Meditations' by Marcus Aurelius", status: "doing" },
-  { id: "task-4", title: "History", description: "Study World War II", status: "done" },
+  { id: "task-3", title: "Philosophy", description: "Eras, quotes", status: "doing" },
+  { id: "task-5", title: "Mac Miller", description: "Tribute, art", status: "doing" },
+  { id: "task-4", title: "History", description: "Main, prehistoric, ancient", status: "done" },
+  { id: "task-7", title: "Houseplants", description: "Basic", status: "done" },
+
 ];
 
 const TaskBoard = () => {

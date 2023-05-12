@@ -96,6 +96,10 @@ const Academics = () => {
                 </div>
 
             </section>
+            <section data-bs-version="5.1" className="header1 cid-academics" id="header1-f">
+                <div className="align-center container">
+                    </div>
+            </section>
 
 
         </div>

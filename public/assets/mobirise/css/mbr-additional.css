@@ -7188,3 +7188,30 @@ a {
 .cid-tD5Swic03m p, .cid-tD5Swic03m span, .cid-tD5Swic03m h1, .cid-tD5Swic03m h2, .cid-tD5Swic03m h3, .cid-tD5Swic03m h4, .cid-tD5Swic03m h5, .cid-tD5Swic03m h6 {
   color: #203530;
 }
+
+/* This is penn state*/
+.cid-academics {
+  padding-top: 4rem;
+  padding-bottom: 1rem;
+  margin-left:  2rem;
+  margin-right:  2rem;
+  background-color: #d4d0d0;
+
+  background-image: url("../../../assets/images/academics.png");
+}
+.cid-academics .mbr-section-title {
+  text-align: center;
+  color: #c6093b;
+}
+.cid-academics .mbr-text,
+.cid-academics .mbr-section-btn {
+  color: #6e0d0d;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-academics .mbr-section-title,
+  .cid-academics .mbr-section-btn,
+  .cid-academics .mbr-text {
+    text-align: center;
+  }
+}
